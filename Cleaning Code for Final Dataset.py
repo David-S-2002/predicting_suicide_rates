@@ -1,26 +1,26 @@
 import pandas as pd
 
-anxiety_df=pd.read_csv(r"C:\Users\missi\Downloads\Anxiety2021\Anxiety2021.csv")
+anxiety_df=pd.read_csv(r"Anxiety2021.csv")
 anxiety = anxiety_df[["location","sex","age","val"]] 
 anxiety = anxiety.rename(columns={"val": "anxiety_percent"})
 
 
-bipolar_df=pd.read_csv(r"C:\Users\missi\Downloads\Bipolar2021\Bipolar2021.csv")
+bipolar_df=pd.read_csv(r"Bipolar2021.csv")
 bipolar = bipolar_df[["location","sex","val"]] 
 bipolar = bipolar.rename(columns={"val": "bipolar_percent"})
 
 
-depress_df=pd.read_csv(r"C:\Users\missi\Downloads\Depression2021\Depression2021.csv")
+depress_df=pd.read_csv(r"Depression2021.csv")
 depress = depress_df[["location","sex","val"]] 
 depress = depress.rename(columns={"val": "depress_percent"})
 
 
-suicide_df=pd.read_csv(r"C:\Users\missi\Downloads\Suicide2021\Suicide2021.csv")
+suicide_df=pd.read_csv(r"Suicide2021.csv")
 suicide = suicide_df[["location","sex","val"]] 
 suicide = suicide.rename(columns={"val": "suicide_rate_per100k"})
 
 
-gdp_df=pd.read_csv(r"C:\Users\missi\Downloads\GDP\GDP.csv")
+gdp_df=pd.read_csv(r"GDP.csv")
 
 gdp_long = gdp_df.drop(columns=["Indicator Name", "Indicator Code"])
 
@@ -57,4 +57,4 @@ merged = pd.merge(merged, gdp_2021, on=["location"], how="inner")
 
 merged
 
-merged.to_csv("final_suicide_2021.csv", index=False)
+merged.to_csv("intermediate_suicide_2021.csv", index=False)
