@@ -1,0 +1,409 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,Taiwan (Province of China),Male,15-49 years,Anxiety disorders,Percent,2021,0.0323392594268188,0.0450083046911823,0.0218184635289383
+Prevalence,Taiwan (Province of China),Female,15-49 years,Anxiety disorders,Percent,2021,0.0526313791560933,0.0741208519767903,0.0357955924454337
+Prevalence,People's Republic of China,Male,15-49 years,Anxiety disorders,Percent,2021,0.0300887456352552,0.0367744429318836,0.0246957854547316
+Prevalence,People's Republic of China,Female,15-49 years,Anxiety disorders,Percent,2021,0.0499904324086692,0.0606567374819286,0.0408605047754962
+Prevalence,Democratic People's Republic of Korea,Male,15-49 years,Anxiety disorders,Percent,2021,0.0312231222453363,0.0439792132345421,0.021305357792325
+Prevalence,Democratic People's Republic of Korea,Female,15-49 years,Anxiety disorders,Percent,2021,0.0521225208554009,0.0712115722146078,0.0360296234595329
+Prevalence,Republic of the Marshall Islands,Male,15-49 years,Anxiety disorders,Percent,2021,0.039037931990385,0.0557833786598563,0.0274035895166097
+Prevalence,Republic of the Marshall Islands,Female,15-49 years,Anxiety disorders,Percent,2021,0.0641054819118532,0.0928159929210803,0.0453746086375606
+Prevalence,Socialist Republic of Viet Nam,Male,15-49 years,Anxiety disorders,Percent,2021,0.0226898054198093,0.0319307309369366,0.0156617888340976
+Prevalence,Socialist Republic of Viet Nam,Female,15-49 years,Anxiety disorders,Percent,2021,0.0431891198029887,0.0594976043388533,0.0302727854760632
+Prevalence,Republic of Kiribati,Male,15-49 years,Anxiety disorders,Percent,2021,0.0393205959778641,0.057473771631259,0.0271074545602817
+Prevalence,Republic of Kiribati,Female,15-49 years,Anxiety disorders,Percent,2021,0.0648110202581314,0.0928424837205441,0.0448024769836034
+Prevalence,Democratic Republic of Timor-Leste,Male,15-49 years,Anxiety disorders,Percent,2021,0.0375954127379883,0.0514782130003806,0.0259012354067224
+Prevalence,Democratic Republic of Timor-Leste,Female,15-49 years,Anxiety disorders,Percent,2021,0.0657409620184506,0.0915123142742609,0.0453882418311123
+Prevalence,Democratic Socialist Republic of Sri Lanka,Male,15-49 years,Anxiety disorders,Percent,2021,0.0408127091727163,0.057505220289465,0.026796862337636
+Prevalence,Democratic Socialist Republic of Sri Lanka,Female,15-49 years,Anxiety disorders,Percent,2021,0.0721769068690185,0.1000515078300721,0.0491096077593515
+Prevalence,Kingdom of Thailand,Male,15-49 years,Anxiety disorders,Percent,2021,0.0347473500426432,0.0490705004683518,0.0235312113507945
+Prevalence,Kingdom of Thailand,Female,15-49 years,Anxiety disorders,Percent,2021,0.0606484117389898,0.085974308953502,0.0419926918717404
+Prevalence,Republic of Fiji,Male,15-49 years,Anxiety disorders,Percent,2021,0.0408697807905354,0.0580773892172059,0.0276843759705869
+Prevalence,Republic of Fiji,Female,15-49 years,Anxiety disorders,Percent,2021,0.0671397488554921,0.0971712680989277,0.0459740233607833
+Prevalence,Republic of the Philippines,Male,15-49 years,Anxiety disorders,Percent,2021,0.0442303042180187,0.0531762545738278,0.0364680634195725
+Prevalence,Republic of the Philippines,Female,15-49 years,Anxiety disorders,Percent,2021,0.078080647600639,0.0939858104896302,0.0649189785067755
+Prevalence,Malaysia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0482781977171133,0.0688219785453176,0.0334339820012586
+Prevalence,Malaysia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0847918570553513,0.1219851685872193,0.058309804344881
+Prevalence,Republic of Indonesia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0398311658270283,0.0480888787928508,0.0328374730028206
+Prevalence,Republic of Indonesia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0692738503667498,0.0839106902336063,0.0568891202066195
+Prevalence,Republic of Maldives,Male,15-49 years,Anxiety disorders,Percent,2021,0.0380158416448887,0.0538451546575411,0.02602826219484
+Prevalence,Republic of Maldives,Female,15-49 years,Anxiety disorders,Percent,2021,0.0665316925373704,0.0935159155976953,0.0456630579070894
+Prevalence,Lao People's Democratic Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0497034191230963,0.0717481689642207,0.0337115416107417
+Prevalence,Lao People's Democratic Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.0772493466898186,0.109606800260361,0.0524294008136866
+Prevalence,Republic of Vanuatu,Male,15-49 years,Anxiety disorders,Percent,2021,0.0395383502218218,0.0569731622904201,0.026792809375737
+Prevalence,Republic of Vanuatu,Female,15-49 years,Anxiety disorders,Percent,2021,0.0650157951152017,0.0931448263770127,0.044638777272697
+Prevalence,Kingdom of Tonga,Male,15-49 years,Anxiety disorders,Percent,2021,0.0400931187827186,0.0558368581420986,0.0272211899768108
+Prevalence,Kingdom of Tonga,Female,15-49 years,Anxiety disorders,Percent,2021,0.0650253844257353,0.0906630561082047,0.0436649952846654
+Prevalence,Republic of the Union of Myanmar,Male,15-49 years,Anxiety disorders,Percent,2021,0.0420714551238196,0.0595927916462297,0.0293997158059471
+Prevalence,Republic of the Union of Myanmar,Female,15-49 years,Anxiety disorders,Percent,2021,0.0739735955343934,0.1004207277623175,0.0509592951435994
+Prevalence,Turkmenistan,Male,15-49 years,Anxiety disorders,Percent,2021,0.0258826188661965,0.0362729830965992,0.0178442594882922
+Prevalence,Turkmenistan,Female,15-49 years,Anxiety disorders,Percent,2021,0.0420318412058594,0.0577253595481239,0.0291501069578361
+Prevalence,Independent State of Samoa,Male,15-49 years,Anxiety disorders,Percent,2021,0.0397688249826106,0.0552112556261951,0.0282219266392569
+Prevalence,Independent State of Samoa,Female,15-49 years,Anxiety disorders,Percent,2021,0.065052279519889,0.0901781603424372,0.0445210868679967
+Prevalence,Federated States of Micronesia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0392254603975187,0.0548618379128204,0.0272908788484854
+Prevalence,Federated States of Micronesia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0644080577366613,0.0917559453622202,0.0447616152508602
+Prevalence,Kingdom of Cambodia,Male,15-49 years,Anxiety disorders,Percent,2021,0.042127273078855,0.0599903312967209,0.028926536706564
+Prevalence,Kingdom of Cambodia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0748095731906734,0.1048882932625827,0.0508709382321001
+Prevalence,Independent State of Papua New Guinea,Male,15-49 years,Anxiety disorders,Percent,2021,0.0377379965095331,0.053167413113596,0.0252292681605811
+Prevalence,Independent State of Papua New Guinea,Female,15-49 years,Anxiety disorders,Percent,2021,0.0616962578468809,0.0880054802903003,0.0419534383751439
+Prevalence,Republic of Korea,Male,15-49 years,Anxiety disorders,Percent,2021,0.0298765669858364,0.041611483417671,0.0200468661773102
+Prevalence,Republic of Korea,Female,15-49 years,Anxiety disorders,Percent,2021,0.0613095795016368,0.0852677441672949,0.0406411000927599
+Prevalence,Republic of Tajikistan,Male,15-49 years,Anxiety disorders,Percent,2021,0.0268910279227478,0.0384463007776349,0.0186745541043096
+Prevalence,Republic of Tajikistan,Female,15-49 years,Anxiety disorders,Percent,2021,0.043832320403898,0.0629419199750971,0.0295800323911784
+Prevalence,Kyrgyz Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0249081992762395,0.0361070671965446,0.0166991439838738
+Prevalence,Kyrgyz Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.0401895576213474,0.0588004922434645,0.0272495236752183
+Prevalence,Solomon Islands,Male,15-49 years,Anxiety disorders,Percent,2021,0.0395488089454681,0.0574315831540388,0.0268791966063049
+Prevalence,Solomon Islands,Female,15-49 years,Anxiety disorders,Percent,2021,0.0648692961146898,0.0927041538811623,0.0444804519594854
+Prevalence,Republic of Armenia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0325604527735252,0.0459367901741845,0.0215525220570128
+Prevalence,Republic of Armenia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0534033565451166,0.0745793260467428,0.0368716294054688
+Prevalence,Mongolia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0214852091131784,0.0305967848995392,0.0146057635342695
+Prevalence,Mongolia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0348999958184907,0.0491469816023665,0.0242516549620263
+Prevalence,Republic of Azerbaijan,Male,15-49 years,Anxiety disorders,Percent,2021,0.0281602188879749,0.0410896936452177,0.0193389020364481
+Prevalence,Republic of Azerbaijan,Female,15-49 years,Anxiety disorders,Percent,2021,0.0459061401202285,0.065517263085475,0.0317808253104353
+Prevalence,Japan,Male,15-49 years,Anxiety disorders,Percent,2021,0.0336379814485734,0.0403743365843123,0.0276905027517076
+Prevalence,Japan,Female,15-49 years,Anxiety disorders,Percent,2021,0.0501816545361685,0.0604788746296622,0.0416758548166253
+Prevalence,Republic of Slovenia,Male,15-49 years,Anxiety disorders,Percent,2021,0.036599163557005,0.0521573319958373,0.0245204985057971
+Prevalence,Republic of Slovenia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0661130688444772,0.0924576237668117,0.0430023184111713
+Prevalence,Georgia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0282716153098259,0.0407890075170832,0.0194390422358244
+Prevalence,Georgia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0463121831540577,0.0662085401262335,0.0317636080935093
+Prevalence,Republic of Kazakhstan,Male,15-49 years,Anxiety disorders,Percent,2021,0.0237543495941375,0.0333059336259823,0.0160432770544321
+Prevalence,Republic of Kazakhstan,Female,15-49 years,Anxiety disorders,Percent,2021,0.0382613060929956,0.0530877593760625,0.026299926926718
+Prevalence,North Macedonia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0440361961339674,0.0600240636926565,0.0304234939706071
+Prevalence,North Macedonia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0796421252811659,0.1089586940338562,0.0532476025213945
+Prevalence,Romania,Male,15-49 years,Anxiety disorders,Percent,2021,0.0382665922543867,0.0535573254322613,0.0248944908415968
+Prevalence,Romania,Female,15-49 years,Anxiety disorders,Percent,2021,0.0695760619968407,0.0960087444652623,0.0457899581412335
+Prevalence,Republic of Poland,Male,15-49 years,Anxiety disorders,Percent,2021,0.0374281783384423,0.0452425679825859,0.0307546076179573
+Prevalence,Republic of Poland,Female,15-49 years,Anxiety disorders,Percent,2021,0.0662457034850686,0.0793399235158801,0.0543881368982977
+Prevalence,Hungary,Male,15-49 years,Anxiety disorders,Percent,2021,0.0380343456038983,0.0547233696382075,0.0259797277429986
+Prevalence,Hungary,Female,15-49 years,Anxiety disorders,Percent,2021,0.0686256651896857,0.0980633156066621,0.0477421278543862
+Prevalence,Republic of Serbia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0380998920328604,0.0531651858689607,0.025569338126206
+Prevalence,Republic of Serbia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0680612858295259,0.0948512005505834,0.0466230748063897
+Prevalence,Montenegro,Male,15-49 years,Anxiety disorders,Percent,2021,0.0432408932539246,0.0612079153223714,0.0288976096792774
+Prevalence,Montenegro,Female,15-49 years,Anxiety disorders,Percent,2021,0.077218187294348,0.1079138044825994,0.0518286165300767
+Prevalence,Republic of Bulgaria,Male,15-49 years,Anxiety disorders,Percent,2021,0.0449890486535095,0.0651136981565695,0.0300200717910354
+Prevalence,Republic of Bulgaria,Female,15-49 years,Anxiety disorders,Percent,2021,0.0815396507693334,0.1175906040542015,0.0562781149372864
+Prevalence,Republic of Croatia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0389384994192681,0.0546114634892938,0.0259485095284634
+Prevalence,Republic of Croatia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0700722474331398,0.0973462171179252,0.0467514764928311
+Prevalence,United States of America,Male,15-49 years,Anxiety disorders,Percent,2021,0.0722334433684247,0.0866899046798273,0.0599713695726958
+Prevalence,United States of America,Female,15-49 years,Anxiety disorders,Percent,2021,0.1258403310885633,0.1507846857244121,0.1046054743598332
+Prevalence,Republic of Uzbekistan,Male,15-49 years,Anxiety disorders,Percent,2021,0.022748150346316,0.0324131943592123,0.0154777262878902
+Prevalence,Republic of Uzbekistan,Female,15-49 years,Anxiety disorders,Percent,2021,0.0364920114227315,0.0502906607188738,0.0251020931662136
+Prevalence,Ireland,Male,15-49 years,Anxiety disorders,Percent,2021,0.0702481275332887,0.0993981165286934,0.0483441066109859
+Prevalence,Ireland,Female,15-49 years,Anxiety disorders,Percent,2021,0.1240768186413895,0.1711686869041179,0.0866914025099473
+Prevalence,Republic of Italy,Male,15-49 years,Anxiety disorders,Percent,2021,0.057842519306328,0.0696560044608698,0.046964516666007
+Prevalence,Republic of Italy,Female,15-49 years,Anxiety disorders,Percent,2021,0.1114011947843031,0.1325904694834538,0.0912092862020144
+Prevalence,Republic of Albania,Male,15-49 years,Anxiety disorders,Percent,2021,0.0422885287933244,0.0594071965918718,0.0295097898628426
+Prevalence,Republic of Albania,Female,15-49 years,Anxiety disorders,Percent,2021,0.0752612859898408,0.1058310490407156,0.0526655442504256
+Prevalence,Slovak Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0399951705386202,0.0568202272950777,0.0272396639592285
+Prevalence,Slovak Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.0724204881534816,0.1013661854828024,0.0491301166054156
+Prevalence,Bosnia and Herzegovina,Male,15-49 years,Anxiety disorders,Percent,2021,0.0405182061468901,0.0566578678525841,0.0288791685714343
+Prevalence,Bosnia and Herzegovina,Female,15-49 years,Anxiety disorders,Percent,2021,0.0730568486315849,0.1008900941617889,0.0506127257483242
+Prevalence,New Zealand,Male,15-49 years,Anxiety disorders,Percent,2021,0.0777443358581538,0.100320313064226,0.0591023072309114
+Prevalence,New Zealand,Female,15-49 years,Anxiety disorders,Percent,2021,0.13781242745292,0.1767456494299107,0.1053499410054088
+Prevalence,Grand Duchy of Luxembourg,Male,15-49 years,Anxiety disorders,Percent,2021,0.0570359623998989,0.0792619918019225,0.039101268963165
+Prevalence,Grand Duchy of Luxembourg,Female,15-49 years,Anxiety disorders,Percent,2021,0.0990769232534746,0.13918900471046,0.0677908151387593
+Prevalence,Principality of Andorra,Male,15-49 years,Anxiety disorders,Percent,2021,0.0591654501508801,0.08375573102782,0.0403734419375465
+Prevalence,Principality of Andorra,Female,15-49 years,Anxiety disorders,Percent,2021,0.1032328819149187,0.1395648767751959,0.0717280884617717
+Prevalence,Republic of Singapore,Male,15-49 years,Anxiety disorders,Percent,2021,0.028638951376178,0.0406366342866544,0.0195519224812787
+Prevalence,Republic of Singapore,Female,15-49 years,Anxiety disorders,Percent,2021,0.0506713013913847,0.0706740788498078,0.0346412855308272
+Prevalence,Hellenic Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0632610619956418,0.0876944700639308,0.0431363301268576
+Prevalence,Hellenic Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.1122170803462017,0.1541726750176414,0.0784524674673193
+Prevalence,Czech Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0365591470058604,0.0526056960822725,0.0249319903689885
+Prevalence,Czech Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.0664213329985462,0.0942197689917253,0.0477557801938892
+Prevalence,Republic of Belarus,Male,15-49 years,Anxiety disorders,Percent,2021,0.0495976243967077,0.0692427535539141,0.0336500790272647
+Prevalence,Republic of Belarus,Female,15-49 years,Anxiety disorders,Percent,2021,0.078936552814299,0.1096209469160046,0.0549040169672429
+Prevalence,Republic of Moldova,Male,15-49 years,Anxiety disorders,Percent,2021,0.0473241644325589,0.0655238174804495,0.0318961995871697
+Prevalence,Republic of Moldova,Female,15-49 years,Anxiety disorders,Percent,2021,0.0750297525952017,0.1027925944598702,0.0512841625022536
+Prevalence,Republic of Latvia,Male,15-49 years,Anxiety disorders,Percent,2021,0.05013668046139,0.0716933556508725,0.0340262037797424
+Prevalence,Republic of Latvia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0798916520382217,0.1117359825785598,0.0547298586039242
+Prevalence,Ukraine,Male,15-49 years,Anxiety disorders,Percent,2021,0.0399818387026913,0.0525650932049699,0.0293499306040115
+Prevalence,Ukraine,Female,15-49 years,Anxiety disorders,Percent,2021,0.0619858198555518,0.0829898900023259,0.044331267565702
+Prevalence,Brunei Darussalam,Male,15-49 years,Anxiety disorders,Percent,2021,0.0315867091901521,0.0450021170662743,0.0209642843014877
+Prevalence,Brunei Darussalam,Female,15-49 years,Anxiety disorders,Percent,2021,0.0553021358190937,0.0784525162502803,0.0378246910784023
+Prevalence,Republic of Lithuania,Male,15-49 years,Anxiety disorders,Percent,2021,0.0556912192748409,0.0790808060968882,0.0385205983072323
+Prevalence,Republic of Lithuania,Female,15-49 years,Anxiety disorders,Percent,2021,0.0912880895514799,0.1286021765165398,0.0633358462969766
+Prevalence,Swiss Confederation,Male,15-49 years,Anxiety disorders,Percent,2021,0.0670652751528089,0.0926574797182569,0.0458790248227482
+Prevalence,Swiss Confederation,Female,15-49 years,Anxiety disorders,Percent,2021,0.1185760561108754,0.1703219308218717,0.0848578652515151
+Prevalence,Russian Federation,Male,15-49 years,Anxiety disorders,Percent,2021,0.0430603281379837,0.0516890728347368,0.0356795390194534
+Prevalence,Russian Federation,Female,15-49 years,Anxiety disorders,Percent,2021,0.0680476443398287,0.0808221877614821,0.0566199803158441
+Prevalence,Australia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0684486128295615,0.0943014987991541,0.0468548747553723
+Prevalence,Australia,Female,15-49 years,Anxiety disorders,Percent,2021,0.109349936018337,0.1505015243678435,0.0747351721444388
+Prevalence,Republic of Iceland,Male,15-49 years,Anxiety disorders,Percent,2021,0.0525897541073176,0.0726989747805772,0.0355708941308763
+Prevalence,Republic of Iceland,Female,15-49 years,Anxiety disorders,Percent,2021,0.0908755145084382,0.1289845426822961,0.0619061950408546
+Prevalence,Republic of Chile,Male,15-49 years,Anxiety disorders,Percent,2021,0.0454532102728942,0.0636172595834182,0.0310222394264824
+Prevalence,Republic of Chile,Female,15-49 years,Anxiety disorders,Percent,2021,0.1311332747421993,0.1821334908716357,0.0898106656680837
+Prevalence,Eastern Republic of Uruguay,Male,15-49 years,Anxiety disorders,Percent,2021,0.0524986362665266,0.0723954427543881,0.0352960116441443
+Prevalence,Eastern Republic of Uruguay,Female,15-49 years,Anxiety disorders,Percent,2021,0.1229294249256699,0.1693200417680714,0.0862877353963842
+Prevalence,Republic of Estonia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0445857119021709,0.0640230326227734,0.0305173589836864
+Prevalence,Republic of Estonia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0702560267185129,0.098405277656755,0.0473440417090946
+Prevalence,State of Israel,Male,15-49 years,Anxiety disorders,Percent,2021,0.042703204247861,0.0601613337875026,0.0296883041600024
+Prevalence,State of Israel,Female,15-49 years,Anxiety disorders,Percent,2021,0.0672911593697176,0.0937922062334772,0.0458895587241054
+Prevalence,Argentine Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0572524647982877,0.0791375097892557,0.0389346907292368
+Prevalence,Argentine Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.1110991177614021,0.1529203132563848,0.0776641380769201
+Prevalence,Kingdom of Spain,Male,15-49 years,Anxiety disorders,Percent,2021,0.0445866396561575,0.0634040130001435,0.0305872888923051
+Prevalence,Kingdom of Spain,Female,15-49 years,Anxiety disorders,Percent,2021,0.1015843407298406,0.1410713666431966,0.0706894543417521
+Prevalence,French Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0616050770174532,0.0850277973369314,0.0424586137864192
+Prevalence,French Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.1289547520792562,0.1773667726093329,0.0883920237155365
+Prevalence,Republic of Cyprus,Male,15-49 years,Anxiety disorders,Percent,2021,0.0618309978146056,0.0881907646364398,0.0430737653336438
+Prevalence,Republic of Cyprus,Female,15-49 years,Anxiety disorders,Percent,2021,0.1080965037531368,0.1494938610940079,0.0752156180324735
+Prevalence,Kingdom of Belgium,Male,15-49 years,Anxiety disorders,Percent,2021,0.0618635993499755,0.0854336444920172,0.042392657831067
+Prevalence,Kingdom of Belgium,Female,15-49 years,Anxiety disorders,Percent,2021,0.0890347299141943,0.1248900838100656,0.0619440810947394
+Prevalence,Canada,Male,15-49 years,Anxiety disorders,Percent,2021,0.0539794574218177,0.0762215645782992,0.0370758425926386
+Prevalence,Canada,Female,15-49 years,Anxiety disorders,Percent,2021,0.0903201625229417,0.1250654299229975,0.0623109012185106
+Prevalence,Republic of Finland,Male,15-49 years,Anxiety disorders,Percent,2021,0.0487403686671882,0.0699300870511629,0.0330497472419545
+Prevalence,Republic of Finland,Female,15-49 years,Anxiety disorders,Percent,2021,0.0713682944154848,0.0997588083790296,0.0484172815678544
+Prevalence,Republic of Malta,Male,15-49 years,Anxiety disorders,Percent,2021,0.059932811792046,0.0844444141102142,0.0401376254188366
+Prevalence,Republic of Malta,Female,15-49 years,Anxiety disorders,Percent,2021,0.1057082485710255,0.1471620405406683,0.071748446661666
+Prevalence,Republic of Austria,Male,15-49 years,Anxiety disorders,Percent,2021,0.0621850901229917,0.0873558881235754,0.0424394078218767
+Prevalence,Republic of Austria,Female,15-49 years,Anxiety disorders,Percent,2021,0.1121730546831802,0.1585404062351294,0.0767874660636776
+Prevalence,Federal Republic of Germany,Male,15-49 years,Anxiety disorders,Percent,2021,0.0617175470517205,0.0858622631480551,0.043262540344469
+Prevalence,Federal Republic of Germany,Female,15-49 years,Anxiety disorders,Percent,2021,0.1234904126093609,0.1751877571595269,0.0869682069858645
+Prevalence,Kingdom of Denmark,Male,15-49 years,Anxiety disorders,Percent,2021,0.0567272655100459,0.0787247348872115,0.039654192753334
+Prevalence,Kingdom of Denmark,Female,15-49 years,Anxiety disorders,Percent,2021,0.097422859805942,0.136155730679461,0.0662189266371762
+Prevalence,Republic of Paraguay,Male,15-49 years,Anxiety disorders,Percent,2021,0.0751286042970284,0.1036127280416355,0.0503135113740485
+Prevalence,Republic of Paraguay,Female,15-49 years,Anxiety disorders,Percent,2021,0.1484086149784445,0.2011183463499374,0.1039605041498466
+Prevalence,Kingdom of the Netherlands,Male,15-49 years,Anxiety disorders,Percent,2021,0.0732636450555528,0.0993802395370461,0.0503974141260095
+Prevalence,Kingdom of the Netherlands,Female,15-49 years,Anxiety disorders,Percent,2021,0.1246265077947035,0.1727408791134129,0.0858825422494238
+Prevalence,Islamic Republic of Iran,Male,15-49 years,Anxiety disorders,Percent,2021,0.0800130805244445,0.0958188249552539,0.0654989958200364
+Prevalence,Islamic Republic of Iran,Female,15-49 years,Anxiety disorders,Percent,2021,0.1332604280428081,0.1596683115586957,0.1087628370612827
+Prevalence,Republic of Guyana,Male,15-49 years,Anxiety disorders,Percent,2021,0.0530484188855069,0.0759427584728898,0.0357907412437357
+Prevalence,Republic of Guyana,Female,15-49 years,Anxiety disorders,Percent,2021,0.0939036378015159,0.1333008864862795,0.0636433378740368
+Prevalence,Saint Vincent and the Grenadines,Male,15-49 years,Anxiety disorders,Percent,2021,0.0497544978668844,0.0697333507432138,0.0336213917900317
+Prevalence,Saint Vincent and the Grenadines,Female,15-49 years,Anxiety disorders,Percent,2021,0.0872445869633163,0.120746544242431,0.058798672796446
+Prevalence,Saint Lucia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0522496815474566,0.0733780379889815,0.0350948605487093
+Prevalence,Saint Lucia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0921032625375966,0.1284111154191621,0.0628349803132937
+Prevalence,Kingdom of Norway,Male,15-49 years,Anxiety disorders,Percent,2021,0.0721008746142305,0.089166107822559,0.0575407741514402
+Prevalence,Kingdom of Norway,Female,15-49 years,Anxiety disorders,Percent,2021,0.1190100359980839,0.14584930656841,0.0965918354606681
+Prevalence,Republic of Haiti,Male,15-49 years,Anxiety disorders,Percent,2021,0.0486854699140075,0.0707934538341744,0.0330451259931229
+Prevalence,Republic of Haiti,Female,15-49 years,Anxiety disorders,Percent,2021,0.0864459091240098,0.119858540450901,0.0594557457422863
+Prevalence,Jamaica,Male,15-49 years,Anxiety disorders,Percent,2021,0.049723711295899,0.0703790046609262,0.0337101754717945
+Prevalence,Jamaica,Female,15-49 years,Anxiety disorders,Percent,2021,0.0871158975171303,0.1236541129506764,0.0587208535063596
+Prevalence,United Kingdom of Great Britain and Northern Ireland,Male,15-49 years,Anxiety disorders,Percent,2021,0.0538835676989313,0.0654042026235222,0.04445364020181
+Prevalence,United Kingdom of Great Britain and Northern Ireland,Female,15-49 years,Anxiety disorders,Percent,2021,0.085058614518746,0.102334357455689,0.06977472299004
+Prevalence,Republic of Trinidad and Tobago,Male,15-49 years,Anxiety disorders,Percent,2021,0.0515625237954363,0.0730416381290917,0.0356924762611546
+Prevalence,Republic of Trinidad and Tobago,Female,15-49 years,Anxiety disorders,Percent,2021,0.091390221799902,0.1316081586572636,0.0620618752103681
+Prevalence,Kingdom of Sweden,Male,15-49 years,Anxiety disorders,Percent,2021,0.0555307317045855,0.0717082422770908,0.0425832737535459
+Prevalence,Kingdom of Sweden,Female,15-49 years,Anxiety disorders,Percent,2021,0.0940682238270775,0.1213803012365294,0.072187344617809
+Prevalence,Portuguese Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0849818806906171,0.1180325508471059,0.0573351386053477
+Prevalence,Portuguese Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.1514006486488451,0.2052024876177459,0.1047193617105187
+Prevalence,Plurinational State of Bolivia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0753380496538644,0.1085153375841208,0.0519603201403992
+Prevalence,Plurinational State of Bolivia,Female,15-49 years,Anxiety disorders,Percent,2021,0.1300609312339444,0.1847322054960363,0.0907397031186441
+Prevalence,Commonwealth of the Bahamas,Male,15-49 years,Anxiety disorders,Percent,2021,0.051022107849295,0.0718171178006001,0.0350980107804854
+Prevalence,Commonwealth of the Bahamas,Female,15-49 years,Anxiety disorders,Percent,2021,0.0893913468908926,0.1241467298768993,0.0609976234956112
+Prevalence,Belize,Male,15-49 years,Anxiety disorders,Percent,2021,0.0478730497977382,0.0698853958349481,0.0331244508779396
+Prevalence,Belize,Female,15-49 years,Anxiety disorders,Percent,2021,0.0832546962215513,0.1198705321884844,0.0574607673294826
+Prevalence,Republic of Costa Rica,Male,15-49 years,Anxiety disorders,Percent,2021,0.0481938501494435,0.0676914182229839,0.0329416304710924
+Prevalence,Republic of Costa Rica,Female,15-49 years,Anxiety disorders,Percent,2021,0.0839217389064745,0.1149794330982609,0.0560775884278249
+Prevalence,Dominican Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0476608109620588,0.0675225810743941,0.0332103313802245
+Prevalence,Dominican Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.0840257068588403,0.1170895947235154,0.0573479333208476
+Prevalence,United Mexican States,Male,15-49 years,Anxiety disorders,Percent,2021,0.0417840848800522,0.0501785579279527,0.0340016610131227
+Prevalence,United Mexican States,Female,15-49 years,Anxiety disorders,Percent,2021,0.0787118147536655,0.0946913584529725,0.0642159432869268
+Prevalence,Republic of Honduras,Male,15-49 years,Anxiety disorders,Percent,2021,0.051265221048572,0.0734768643206477,0.035179150122058
+Prevalence,Republic of Honduras,Female,15-49 years,Anxiety disorders,Percent,2021,0.088710997008966,0.1247499092966735,0.0617145247386812
+Prevalence,Republic of Nicaragua,Male,15-49 years,Anxiety disorders,Percent,2021,0.0486927428923548,0.0689858204533211,0.0340240535718911
+Prevalence,Republic of Nicaragua,Female,15-49 years,Anxiety disorders,Percent,2021,0.0849827839883425,0.1189779930427214,0.0588553161463456
+Prevalence,Grenada,Male,15-49 years,Anxiety disorders,Percent,2021,0.0496018219830768,0.0706062359604861,0.0332501477772649
+Prevalence,Grenada,Female,15-49 years,Anxiety disorders,Percent,2021,0.0870201117551353,0.1230009341938024,0.0591319990546839
+Prevalence,Republic of Guatemala,Male,15-49 years,Anxiety disorders,Percent,2021,0.0483676400162581,0.0665319730723284,0.0324068794951033
+Prevalence,Republic of Guatemala,Female,15-49 years,Anxiety disorders,Percent,2021,0.0841762183038178,0.114225300186102,0.0581432276751392
+Prevalence,Barbados,Male,15-49 years,Anxiety disorders,Percent,2021,0.0511272668384572,0.0719084052339638,0.0360361441433031
+Prevalence,Barbados,Female,15-49 years,Anxiety disorders,Percent,2021,0.0897749314799474,0.1247706531382186,0.0633461189389079
+Prevalence,Republic of Suriname,Male,15-49 years,Anxiety disorders,Percent,2021,0.0530283834348914,0.0746576311369564,0.0365843698960223
+Prevalence,Republic of Suriname,Female,15-49 years,Anxiety disorders,Percent,2021,0.0934643287051091,0.1297011662212015,0.0654197867921907
+Prevalence,Republic of Cuba,Male,15-49 years,Anxiety disorders,Percent,2021,0.0505576616713753,0.0711993563228262,0.0345318703573177
+Prevalence,Republic of Cuba,Female,15-49 years,Anxiety disorders,Percent,2021,0.0891151308524666,0.1220908295926712,0.061079019171582
+Prevalence,Commonwealth of Dominica,Male,15-49 years,Anxiety disorders,Percent,2021,0.0499823219698069,0.0702951360350628,0.035143516802635
+Prevalence,Commonwealth of Dominica,Female,15-49 years,Anxiety disorders,Percent,2021,0.0879100472670535,0.121730974980202,0.0621591484782994
+Prevalence,People's Democratic Republic of Algeria,Male,15-49 years,Anxiety disorders,Percent,2021,0.0513748777699776,0.0722774596143681,0.0347160053934477
+Prevalence,People's Democratic Republic of Algeria,Female,15-49 years,Anxiety disorders,Percent,2021,0.0910149968948526,0.1298962347499569,0.0604282171195827
+Prevalence,Antigua and Barbuda,Male,15-49 years,Anxiety disorders,Percent,2021,0.0492424765643001,0.0696475833630384,0.0333976014147479
+Prevalence,Antigua and Barbuda,Female,15-49 years,Anxiety disorders,Percent,2021,0.0868641240849053,0.1214330531946731,0.0601847532028606
+Prevalence,Hashemite Kingdom of Jordan,Male,15-49 years,Anxiety disorders,Percent,2021,0.0557312896447854,0.0765953351087942,0.0379362986855429
+Prevalence,Hashemite Kingdom of Jordan,Female,15-49 years,Anxiety disorders,Percent,2021,0.0987347339810986,0.1369819160830357,0.0659152998968983
+Prevalence,State of Qatar,Male,15-49 years,Anxiety disorders,Percent,2021,0.0484652586845324,0.0715237246528984,0.0320042968364803
+Prevalence,State of Qatar,Female,15-49 years,Anxiety disorders,Percent,2021,0.0889706957056262,0.1287264051144422,0.0577675516872344
+Prevalence,Bolivarian Republic of Venezuela,Male,15-49 years,Anxiety disorders,Percent,2021,0.0414996388038362,0.0588163354217212,0.0280247001042275
+Prevalence,Bolivarian Republic of Venezuela,Female,15-49 years,Anxiety disorders,Percent,2021,0.0729893203376049,0.101365062584115,0.0517945488693506
+Prevalence,Republic of Ecuador,Male,15-49 years,Anxiety disorders,Percent,2021,0.0646384275381746,0.0893809638567034,0.0446553559027974
+Prevalence,Republic of Ecuador,Female,15-49 years,Anxiety disorders,Percent,2021,0.1112433783015685,0.1532414621371598,0.0776503833705107
+Prevalence,Sultanate of Oman,Male,15-49 years,Anxiety disorders,Percent,2021,0.0536471450065428,0.0745164778513403,0.0371770423024929
+Prevalence,Sultanate of Oman,Female,15-49 years,Anxiety disorders,Percent,2021,0.0994654710598313,0.1392038733670772,0.068723039402364
+Prevalence,Republic of El Salvador,Male,15-49 years,Anxiety disorders,Percent,2021,0.04893838756976,0.0679889769553035,0.0330586505706556
+Prevalence,Republic of El Salvador,Female,15-49 years,Anxiety disorders,Percent,2021,0.0842440800064158,0.1174809883083742,0.0566223513693458
+Prevalence,Republic of Panama,Male,15-49 years,Anxiety disorders,Percent,2021,0.0449010882266951,0.063835110998641,0.0297045875948036
+Prevalence,Republic of Panama,Female,15-49 years,Anxiety disorders,Percent,2021,0.0781774598820465,0.1124442657054697,0.0520057101983363
+Prevalence,Federative Republic of Brazil,Male,15-49 years,Anxiety disorders,Percent,2021,0.0812274969468078,0.0981986272768081,0.0661562957374783
+Prevalence,Federative Republic of Brazil,Female,15-49 years,Anxiety disorders,Percent,2021,0.161349795478635,0.19349820094456,0.1309606508923065
+Prevalence,Republic of Peru,Male,15-49 years,Anxiety disorders,Percent,2021,0.0717828221731682,0.1019706269513896,0.0462863367562492
+Prevalence,Republic of Peru,Female,15-49 years,Anxiety disorders,Percent,2021,0.1246922221281834,0.176953743342419,0.0829944917947358
+Prevalence,Arab Republic of Egypt,Male,15-49 years,Anxiety disorders,Percent,2021,0.050790688577873,0.0704132344889862,0.0354045742577785
+Prevalence,Arab Republic of Egypt,Female,15-49 years,Anxiety disorders,Percent,2021,0.0882895109979826,0.122331819448549,0.0603869710263909
+Prevalence,Federal Democratic Republic of Nepal,Male,15-49 years,Anxiety disorders,Percent,2021,0.042688526405137,0.0628501634259474,0.0283802420970172
+Prevalence,Federal Democratic Republic of Nepal,Female,15-49 years,Anxiety disorders,Percent,2021,0.0589235985621114,0.085135044494157,0.03959022525266
+Prevalence,Syrian Arab Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0609230150359631,0.0853222425214748,0.0425090541294725
+Prevalence,Syrian Arab Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.1050652700424481,0.1454996098038316,0.0723467205764179
+Prevalence,United Arab Emirates,Male,15-49 years,Anxiety disorders,Percent,2021,0.0502300249799793,0.0714735802319962,0.0321665650032611
+Prevalence,United Arab Emirates,Female,15-49 years,Anxiety disorders,Percent,2021,0.0884682771469778,0.1255653455278762,0.0597195896721489
+Prevalence,Republic of Colombia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0569308429332247,0.0819177139268878,0.0384971512864571
+Prevalence,Republic of Colombia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0895090625537712,0.1268694093657362,0.0606437246979454
+Prevalence,Republic of India,Male,15-49 years,Anxiety disorders,Percent,2021,0.0367321878609036,0.0440110938658114,0.0300962854760705
+Prevalence,Republic of India,Female,15-49 years,Anxiety disorders,Percent,2021,0.0563871232675742,0.0672469870367514,0.0464262748199128
+Prevalence,Kingdom of Bahrain,Male,15-49 years,Anxiety disorders,Percent,2021,0.0555178613105972,0.0780884615944002,0.0386767290816685
+Prevalence,Kingdom of Bahrain,Female,15-49 years,Anxiety disorders,Percent,2021,0.1020540093064538,0.1438665307369158,0.0689233576575167
+Prevalence,State of Kuwait,Male,15-49 years,Anxiety disorders,Percent,2021,0.0468584857494992,0.0659987915670049,0.0321131409935002
+Prevalence,State of Kuwait,Female,15-49 years,Anxiety disorders,Percent,2021,0.0835155963092029,0.116136517157867,0.0576090701349901
+Prevalence,Palestine,Male,15-49 years,Anxiety disorders,Percent,2021,0.0608971000128959,0.0852453898785536,0.0415003109292294
+Prevalence,Palestine,Female,15-49 years,Anxiety disorders,Percent,2021,0.1083749666345465,0.1519389426698945,0.0744916324435759
+Prevalence,Islamic Republic of Pakistan,Male,15-49 years,Anxiety disorders,Percent,2021,0.041245717405218,0.0523439254452124,0.031818971184615
+Prevalence,Islamic Republic of Pakistan,Female,15-49 years,Anxiety disorders,Percent,2021,0.0561604088036016,0.0703720877120977,0.0441030327692106
+Prevalence,Lebanese Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0758029023700438,0.1066744985436337,0.050605155452965
+Prevalence,Lebanese Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.1384444272634259,0.1917855485948937,0.0950047685684617
+Prevalence,Kingdom of Morocco,Male,15-49 years,Anxiety disorders,Percent,2021,0.0567456477673866,0.0799109607616842,0.0404615220952346
+Prevalence,Kingdom of Morocco,Female,15-49 years,Anxiety disorders,Percent,2021,0.0998973797910845,0.1403018534473159,0.0687905283639268
+Prevalence,Kingdom of Saudi Arabia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0491310833436296,0.0689152209856348,0.033708350313576
+Prevalence,Kingdom of Saudi Arabia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0888610146618348,0.1261321445551402,0.0615747875778279
+Prevalence,State of Libya,Male,15-49 years,Anxiety disorders,Percent,2021,0.0576962886971097,0.0838050569986075,0.03968371752096
+Prevalence,State of Libya,Female,15-49 years,Anxiety disorders,Percent,2021,0.1029844886818853,0.1463975421138628,0.0708861069533224
+Prevalence,Gabonese Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0490116153891458,0.0700453101259859,0.0328721574268011
+Prevalence,Gabonese Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.0643975290806135,0.0922661340466308,0.0434561617245139
+Prevalence,Republic of Iraq,Male,15-49 years,Anxiety disorders,Percent,2021,0.0510512157825486,0.0719363760395422,0.0352414584413905
+Prevalence,Republic of Iraq,Female,15-49 years,Anxiety disorders,Percent,2021,0.1048263931689772,0.1490930123112227,0.0718296525932686
+Prevalence,Union of the Comoros,Male,15-49 years,Anxiety disorders,Percent,2021,0.0468690517635882,0.067964597097384,0.0323840312487019
+Prevalence,Union of the Comoros,Female,15-49 years,Anxiety disorders,Percent,2021,0.0652176719894073,0.0936694257358162,0.0461659941905591
+Prevalence,Islamic Republic of Afghanistan,Male,15-49 years,Anxiety disorders,Percent,2021,0.0581905687619079,0.0828864143110641,0.0402754126897706
+Prevalence,Islamic Republic of Afghanistan,Female,15-49 years,Anxiety disorders,Percent,2021,0.1046586299974245,0.1481555855817427,0.072030036158569
+Prevalence,Republic of Tunisia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0637511202493165,0.0908026578475515,0.0441141635008104
+Prevalence,Republic of Tunisia,Female,15-49 years,Anxiety disorders,Percent,2021,0.1130666664872694,0.1586337691631262,0.0783480701830401
+Prevalence,Republic of Burundi,Male,15-49 years,Anxiety disorders,Percent,2021,0.0470929225723134,0.0673888883784497,0.0315745665888304
+Prevalence,Republic of Burundi,Female,15-49 years,Anxiety disorders,Percent,2021,0.0664869820962716,0.0944782378140715,0.0455586781852279
+Prevalence,Federal Democratic Republic of Ethiopia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0436507949404882,0.0541397758861493,0.0346247134132224
+Prevalence,Federal Democratic Republic of Ethiopia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0672759381190772,0.0841505158087134,0.0536104888746674
+Prevalence,People's Republic of Bangladesh,Male,15-49 years,Anxiety disorders,Percent,2021,0.0417061405845076,0.0585308955507989,0.0282767237573292
+Prevalence,People's Republic of Bangladesh,Female,15-49 years,Anxiety disorders,Percent,2021,0.0549115434681077,0.0761995411758019,0.0376866769873807
+Prevalence,Republic of Yemen,Male,15-49 years,Anxiety disorders,Percent,2021,0.0500591021035716,0.0702694038297031,0.0348318443527212
+Prevalence,Republic of Yemen,Female,15-49 years,Anxiety disorders,Percent,2021,0.0876208046020609,0.1220211442316969,0.0600653060984396
+Prevalence,Republic of Kenya,Male,15-49 years,Anxiety disorders,Percent,2021,0.0447673863742366,0.0548261417857427,0.036846650365111
+Prevalence,Republic of Kenya,Female,15-49 years,Anxiety disorders,Percent,2021,0.062687261976773,0.0759091173514978,0.0513385838930794
+Prevalence,Republic of Turkey,Male,15-49 years,Anxiety disorders,Percent,2021,0.0523217186386599,0.0751977670525762,0.0354156227935046
+Prevalence,Republic of Turkey,Female,15-49 years,Anxiety disorders,Percent,2021,0.0886658166202792,0.1227398835334204,0.0582592507999222
+Prevalence,Republic of Angola,Male,15-49 years,Anxiety disorders,Percent,2021,0.0467633005224037,0.0679869870085666,0.0317213909126383
+Prevalence,Republic of Angola,Female,15-49 years,Anxiety disorders,Percent,2021,0.0616346674989047,0.0881791227129969,0.043020037457876
+Prevalence,State of Eritrea,Male,15-49 years,Anxiety disorders,Percent,2021,0.0450256560772726,0.0635285489829459,0.0305344013551693
+Prevalence,State of Eritrea,Female,15-49 years,Anxiety disorders,Percent,2021,0.063044004274592,0.0898333011067766,0.0426553663831748
+Prevalence,Kingdom of Bhutan,Male,15-49 years,Anxiety disorders,Percent,2021,0.0366380609426848,0.0509068810319529,0.025260397128308
+Prevalence,Kingdom of Bhutan,Female,15-49 years,Anxiety disorders,Percent,2021,0.0484304011359944,0.0670436201203781,0.0334955898772222
+Prevalence,Republic of Rwanda,Male,15-49 years,Anxiety disorders,Percent,2021,0.0472226341997569,0.0678628982524107,0.0322492735240133
+Prevalence,Republic of Rwanda,Female,15-49 years,Anxiety disorders,Percent,2021,0.0659456406866038,0.0924052289144139,0.0445538419061793
+Prevalence,Republic of the Congo,Male,15-49 years,Anxiety disorders,Percent,2021,0.0454417540577683,0.0643285950107822,0.0305532083183835
+Prevalence,Republic of the Congo,Female,15-49 years,Anxiety disorders,Percent,2021,0.0596046692629938,0.0830931406536389,0.0411813221813774
+Prevalence,Democratic Republic of the Congo,Male,15-49 years,Anxiety disorders,Percent,2021,0.0434576506269962,0.0639526146078748,0.0301419541161826
+Prevalence,Democratic Republic of the Congo,Female,15-49 years,Anxiety disorders,Percent,2021,0.0572078170156643,0.0828563396905772,0.03945402969544
+Prevalence,Republic of Uganda,Male,15-49 years,Anxiety disorders,Percent,2021,0.0512738389826313,0.0730625970431513,0.0354280164413122
+Prevalence,Republic of Uganda,Female,15-49 years,Anxiety disorders,Percent,2021,0.0651786929367773,0.0923590021463842,0.0450734148111102
+Prevalence,Central African Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0459929714759132,0.0660455978339118,0.0320272020774415
+Prevalence,Central African Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.0610654455898472,0.0884166876500895,0.0422722142674085
+Prevalence,Republic of Zambia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0505301980083013,0.0717084112317257,0.0343768884425257
+Prevalence,Republic of Zambia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0715497684625276,0.0998631250983488,0.04908847933878
+Prevalence,Kingdom of Lesotho,Male,15-49 years,Anxiety disorders,Percent,2021,0.0548225626451742,0.0781049209175914,0.0382385014807425
+Prevalence,Kingdom of Lesotho,Female,15-49 years,Anxiety disorders,Percent,2021,0.0726291953929988,0.1025735913696554,0.0508587102541013
+Prevalence,Republic of Djibouti,Male,15-49 years,Anxiety disorders,Percent,2021,0.0442182515188727,0.0636842572630235,0.0303970836869341
+Prevalence,Republic of Djibouti,Female,15-49 years,Anxiety disorders,Percent,2021,0.0612076268159957,0.08775576932941,0.0414875470140959
+Prevalence,Republic of Malawi,Male,15-49 years,Anxiety disorders,Percent,2021,0.0487931215939668,0.0698331646501094,0.0338399256755794
+Prevalence,Republic of Malawi,Female,15-49 years,Anxiety disorders,Percent,2021,0.0686300238477228,0.0988004246518963,0.0464486022594141
+Prevalence,Republic of Equatorial Guinea,Male,15-49 years,Anxiety disorders,Percent,2021,0.0450198265626216,0.0673091556328124,0.0303984128120347
+Prevalence,Republic of Equatorial Guinea,Female,15-49 years,Anxiety disorders,Percent,2021,0.0585222923873895,0.0840054813512139,0.0385751325697346
+Prevalence,Republic of Benin,Male,15-49 years,Anxiety disorders,Percent,2021,0.037395521255867,0.0530379091114062,0.0251888243985232
+Prevalence,Republic of Benin,Female,15-49 years,Anxiety disorders,Percent,2021,0.0476478266504055,0.0686837052594008,0.0325344202112905
+Prevalence,Republic of Mauritius,Male,15-49 years,Anxiety disorders,Percent,2021,0.0389263359476152,0.0539196918287663,0.0263602394067917
+Prevalence,Republic of Mauritius,Female,15-49 years,Anxiety disorders,Percent,2021,0.0688568747817314,0.0955547812789723,0.0478066265790794
+Prevalence,Republic of Mozambique,Male,15-49 years,Anxiety disorders,Percent,2021,0.0495836858184928,0.0712279235412806,0.0332860367365131
+Prevalence,Republic of Mozambique,Female,15-49 years,Anxiety disorders,Percent,2021,0.0701509650728434,0.0999701907983386,0.0479753737579129
+Prevalence,Republic of Guinea,Male,15-49 years,Anxiety disorders,Percent,2021,0.0398151297851331,0.0568246125335329,0.0272637421061197
+Prevalence,Republic of Guinea,Female,15-49 years,Anxiety disorders,Percent,2021,0.0507097509210789,0.0727124828500322,0.0345141893242577
+Prevalence,Republic of Seychelles,Male,15-49 years,Anxiety disorders,Percent,2021,0.0409860006804213,0.0578329012923771,0.0285783764357679
+Prevalence,Republic of Seychelles,Female,15-49 years,Anxiety disorders,Percent,2021,0.0721231168314956,0.0992108657818354,0.051153578225207
+Prevalence,Republic of Ghana,Male,15-49 years,Anxiety disorders,Percent,2021,0.0371177689620148,0.0516043171877297,0.0260164632282068
+Prevalence,Republic of Ghana,Female,15-49 years,Anxiety disorders,Percent,2021,0.0462889859321122,0.0666398307649755,0.0325226853606174
+Prevalence,Republic of Côte d'Ivoire,Male,15-49 years,Anxiety disorders,Percent,2021,0.0373567280560878,0.0544966279204103,0.0253162810317569
+Prevalence,Republic of Côte d'Ivoire,Female,15-49 years,Anxiety disorders,Percent,2021,0.0465169621671917,0.0667569522754437,0.0324552309993222
+Prevalence,Republic of Madagascar,Male,15-49 years,Anxiety disorders,Percent,2021,0.0482289681692797,0.0712412800318592,0.0326503330481773
+Prevalence,Republic of Madagascar,Female,15-49 years,Anxiety disorders,Percent,2021,0.0676868307005433,0.0967635049049667,0.0459494599381504
+Prevalence,Republic of Cabo Verde,Male,15-49 years,Anxiety disorders,Percent,2021,0.0409216746578148,0.0582092751414696,0.0276752774371625
+Prevalence,Republic of Cabo Verde,Female,15-49 years,Anxiety disorders,Percent,2021,0.050268349680269,0.0712791426443972,0.0348352777337503
+Prevalence,Republic of Namibia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0547317394551912,0.0766391952843334,0.0379985324675962
+Prevalence,Republic of Namibia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0725964843593484,0.1016472119458527,0.050012438849852
+Prevalence,Federal Republic of Somalia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0467706998224789,0.066554556744415,0.0312383306296752
+Prevalence,Federal Republic of Somalia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0664741884030154,0.095524546492544,0.0453171895851275
+Prevalence,Republic of Sierra Leone,Male,15-49 years,Anxiety disorders,Percent,2021,0.0376690770967521,0.0548304799591722,0.0252941947044721
+Prevalence,Republic of Sierra Leone,Female,15-49 years,Anxiety disorders,Percent,2021,0.0473637035026455,0.0682334620074569,0.0322669390130236
+Prevalence,United Republic of Tanzania,Male,15-49 years,Anxiety disorders,Percent,2021,0.0469146667146733,0.0681208917451863,0.0320199350598955
+Prevalence,United Republic of Tanzania,Female,15-49 years,Anxiety disorders,Percent,2021,0.065892768225366,0.0943209526696392,0.0447606535408108
+Prevalence,Republic of Botswana,Male,15-49 years,Anxiety disorders,Percent,2021,0.0519209848970112,0.0761860141043349,0.0357411933147971
+Prevalence,Republic of Botswana,Female,15-49 years,Anxiety disorders,Percent,2021,0.068561039903842,0.0981568411710313,0.0465776127849911
+Prevalence,Republic of Chad,Male,15-49 years,Anxiety disorders,Percent,2021,0.0366748925813061,0.0532352725913181,0.0249516474942796
+Prevalence,Republic of Chad,Female,15-49 years,Anxiety disorders,Percent,2021,0.0471066105253255,0.0674590338158413,0.0312560849093883
+Prevalence,Republic of South Africa,Male,15-49 years,Anxiety disorders,Percent,2021,0.0518493449861675,0.0631478331723925,0.0417688319108898
+Prevalence,Republic of South Africa,Female,15-49 years,Anxiety disorders,Percent,2021,0.0757147075121603,0.0913071483895477,0.061185455690103
+Prevalence,Kingdom of Eswatini,Male,15-49 years,Anxiety disorders,Percent,2021,0.0566140698229717,0.0813026759095687,0.0384223362080908
+Prevalence,Kingdom of Eswatini,Female,15-49 years,Anxiety disorders,Percent,2021,0.0748881999620685,0.1068502107287183,0.051755646731139
+Prevalence,Republic of Zimbabwe,Male,15-49 years,Anxiety disorders,Percent,2021,0.047595640424127,0.0668905397618674,0.0310761391041229
+Prevalence,Republic of Zimbabwe,Female,15-49 years,Anxiety disorders,Percent,2021,0.0557840377037734,0.0809013429352562,0.0370900452647964
+Prevalence,Burkina Faso,Male,15-49 years,Anxiety disorders,Percent,2021,0.0361138243460471,0.0502840579305845,0.0251312643875552
+Prevalence,Burkina Faso,Female,15-49 years,Anxiety disorders,Percent,2021,0.0455191806884357,0.0642484105404855,0.0308025147256781
+Prevalence,Republic of Cameroon,Male,15-49 years,Anxiety disorders,Percent,2021,0.037832041902557,0.0549372450893524,0.0255705060470329
+Prevalence,Republic of Cameroon,Female,15-49 years,Anxiety disorders,Percent,2021,0.0475679301299609,0.0672361122891182,0.0317196312113487
+Prevalence,Republic of Guinea-Bissau,Male,15-49 years,Anxiety disorders,Percent,2021,0.0381032347843627,0.0560540857390827,0.0260921991230316
+Prevalence,Republic of Guinea-Bissau,Female,15-49 years,Anxiety disorders,Percent,2021,0.0477640773514844,0.0675839664651731,0.0324565390504099
+Prevalence,Republic of Mali,Male,15-49 years,Anxiety disorders,Percent,2021,0.0348723459317572,0.050133802348854,0.0236444420855036
+Prevalence,Republic of Mali,Female,15-49 years,Anxiety disorders,Percent,2021,0.0444371872073314,0.0637869386734809,0.0307364009103437
+Prevalence,Islamic Republic of Mauritania,Male,15-49 years,Anxiety disorders,Percent,2021,0.0355815526034005,0.052203359819901,0.0252702490043095
+Prevalence,Islamic Republic of Mauritania,Female,15-49 years,Anxiety disorders,Percent,2021,0.0443822429299032,0.0634031352972595,0.0315772960255571
+Prevalence,Republic of Senegal,Male,15-49 years,Anxiety disorders,Percent,2021,0.0397100255726601,0.0574748406721835,0.0266510507367572
+Prevalence,Republic of Senegal,Female,15-49 years,Anxiety disorders,Percent,2021,0.0498441978130549,0.071804945370595,0.0344005305079005
+Prevalence,Republic of Liberia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0384162189832487,0.0533058628869816,0.0264428977540434
+Prevalence,Republic of Liberia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0486349015118054,0.0686499714915265,0.0329881301311834
+Prevalence,Federal Republic of Nigeria,Male,15-49 years,Anxiety disorders,Percent,2021,0.0357636348937571,0.0443365686454371,0.0294717196852585
+Prevalence,Federal Republic of Nigeria,Female,15-49 years,Anxiety disorders,Percent,2021,0.0447705262217417,0.0549331958555824,0.0370129396273322
+Prevalence,Republic of the Gambia,Male,15-49 years,Anxiety disorders,Percent,2021,0.0398770065472114,0.0555956832660038,0.0269653156189848
+Prevalence,Republic of the Gambia,Female,15-49 years,Anxiety disorders,Percent,2021,0.0504643073710721,0.0699472129817848,0.03436435700119
+Prevalence,Republic of South Sudan,Male,15-49 years,Anxiety disorders,Percent,2021,0.0492133076774806,0.0700565807124838,0.0339799667736789
+Prevalence,Republic of South Sudan,Female,15-49 years,Anxiety disorders,Percent,2021,0.0703666927046905,0.0983142417426497,0.0484547212879903
+Prevalence,Tokelau,Male,15-49 years,Anxiety disorders,Percent,2021,0.0394901884176313,0.0559819275323439,0.0276315651210005
+Prevalence,Tokelau,Female,15-49 years,Anxiety disorders,Percent,2021,0.064087846171398,0.0885324583477188,0.044964655341384
+Prevalence,Democratic Republic of Sao Tome and Principe,Male,15-49 years,Anxiety disorders,Percent,2021,0.0370654531899538,0.0519523889064756,0.0249963782581533
+Prevalence,Democratic Republic of Sao Tome and Principe,Female,15-49 years,Anxiety disorders,Percent,2021,0.0460983626817818,0.0643653785533496,0.031156756481858
+Prevalence,Republic of Palau,Male,15-49 years,Anxiety disorders,Percent,2021,0.0383961956442886,0.0553257782379117,0.0264826740371607
+Prevalence,Republic of Palau,Female,15-49 years,Anxiety disorders,Percent,2021,0.0629458959573956,0.0865443297522073,0.0441376229768922
+Prevalence,Saint Kitts and Nevis,Male,15-49 years,Anxiety disorders,Percent,2021,0.0480803446417307,0.0680436921114046,0.0332459933436198
+Prevalence,Saint Kitts and Nevis,Female,15-49 years,Anxiety disorders,Percent,2021,0.084174668587623,0.1170846806026472,0.0571421907431456
+Prevalence,American Samoa,Male,15-49 years,Anxiety disorders,Percent,2021,0.0393673893993737,0.0550994382473871,0.0267483130213143
+Prevalence,American Samoa,Female,15-49 years,Anxiety disorders,Percent,2021,0.0644932919633268,0.0925309996797101,0.0432973967368165
+Prevalence,Republic of Niue,Male,15-49 years,Anxiety disorders,Percent,2021,0.0396405615063864,0.0554374812714879,0.0269561206025317
+Prevalence,Republic of Niue,Female,15-49 years,Anxiety disorders,Percent,2021,0.0641349300541968,0.0891502865528379,0.0443022019647962
+Prevalence,Republic of the Niger,Male,15-49 years,Anxiety disorders,Percent,2021,0.0335258888195139,0.0469589000574399,0.0228480428949476
+Prevalence,Republic of the Niger,Female,15-49 years,Anxiety disorders,Percent,2021,0.0428904027626783,0.0615310863022308,0.0301592595522254
+Prevalence,Greenland,Male,15-49 years,Anxiety disorders,Percent,2021,0.0644721669327376,0.0911586866594958,0.0426834754037221
+Prevalence,Greenland,Female,15-49 years,Anxiety disorders,Percent,2021,0.1110177057941332,0.1581833111418678,0.0734698060019715
+Prevalence,Cook Islands,Male,15-49 years,Anxiety disorders,Percent,2021,0.0398781793567564,0.0553338962508024,0.0280970469788189
+Prevalence,Cook Islands,Female,15-49 years,Anxiety disorders,Percent,2021,0.0643567459140045,0.0902696177405962,0.0456390352061178
+Prevalence,Tuvalu,Male,15-49 years,Anxiety disorders,Percent,2021,0.0395406936566212,0.0575944268042015,0.0269812778157253
+Prevalence,Tuvalu,Female,15-49 years,Anxiety disorders,Percent,2021,0.0646337109441024,0.0949677832921603,0.0442748618070013
+Prevalence,Guam,Male,15-49 years,Anxiety disorders,Percent,2021,0.0420397498269099,0.0583303911157569,0.0287621596900077
+Prevalence,Guam,Female,15-49 years,Anxiety disorders,Percent,2021,0.0678233363077707,0.0939459618587394,0.0461303410946943
+Prevalence,Togolese Republic,Male,15-49 years,Anxiety disorders,Percent,2021,0.0390817433852598,0.0563554214467018,0.0264909516695378
+Prevalence,Togolese Republic,Female,15-49 years,Anxiety disorders,Percent,2021,0.048700190263332,0.0699977226087324,0.0334148869042507
+Prevalence,United States Virgin Islands,Male,15-49 years,Anxiety disorders,Percent,2021,0.0502426693296283,0.0708247674990288,0.0354775783534864
+Prevalence,United States Virgin Islands,Female,15-49 years,Anxiety disorders,Percent,2021,0.0880045199715201,0.1194590904841033,0.0615363904657931
+Prevalence,Republic of Nauru,Male,15-49 years,Anxiety disorders,Percent,2021,0.0395455916226777,0.056743346121269,0.0270060835384761
+Prevalence,Republic of Nauru,Female,15-49 years,Anxiety disorders,Percent,2021,0.0646351353663923,0.0916368997855692,0.0449244697699886
+Prevalence,Republic of San Marino,Male,15-49 years,Anxiety disorders,Percent,2021,0.0616053103197063,0.0854283533308903,0.0422823251654023
+Prevalence,Republic of San Marino,Female,15-49 years,Anxiety disorders,Percent,2021,0.1067863165633228,0.1467175055562977,0.0737102711328848
+Prevalence,Principality of Monaco,Male,15-49 years,Anxiety disorders,Percent,2021,0.0604395269140626,0.0861500617434493,0.0417437811844315
+Prevalence,Principality of Monaco,Female,15-49 years,Anxiety disorders,Percent,2021,0.1050296124344471,0.1457292154778626,0.0736960657953735
+Prevalence,Bermuda,Male,15-49 years,Anxiety disorders,Percent,2021,0.0503340208537034,0.0712427351219106,0.0332565476160869
+Prevalence,Bermuda,Female,15-49 years,Anxiety disorders,Percent,2021,0.0881037533928604,0.1226161860630779,0.0604003762500964
+Prevalence,Republic of Sudan,Male,15-49 years,Anxiety disorders,Percent,2021,0.0557556136460207,0.0812079302319525,0.039158666580533
+Prevalence,Republic of Sudan,Female,15-49 years,Anxiety disorders,Percent,2021,0.098175549199006,0.1436482055262841,0.0660885515948062
+Prevalence,Puerto Rico,Male,15-49 years,Anxiety disorders,Percent,2021,0.0481974635776317,0.0670342165212864,0.0329889216490021
+Prevalence,Puerto Rico,Female,15-49 years,Anxiety disorders,Percent,2021,0.084915261643787,0.1188099856803549,0.0581769602178152
+Prevalence,Northern Mariana Islands,Male,15-49 years,Anxiety disorders,Percent,2021,0.0425006669571958,0.0605483079353468,0.0299491594205964
+Prevalence,Northern Mariana Islands,Female,15-49 years,Anxiety disorders,Percent,2021,0.0690795798357104,0.0955650273076737,0.0485665268962542

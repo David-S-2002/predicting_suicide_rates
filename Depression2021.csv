@@ -1,0 +1,409 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,People's Republic of China,Male,15-49 years,Depressive disorders,Percent,2021,0.0254056574139112,0.0295624962896879,0.0220096446543948
+Prevalence,People's Republic of China,Female,15-49 years,Depressive disorders,Percent,2021,0.0410636004351089,0.0476724373802695,0.0357376962048409
+Prevalence,Democratic People's Republic of Korea,Male,15-49 years,Depressive disorders,Percent,2021,0.023613556844851,0.029380919051774,0.0189437321012551
+Prevalence,Democratic People's Republic of Korea,Female,15-49 years,Depressive disorders,Percent,2021,0.0405028566352802,0.0508029906001853,0.032409810313507
+Prevalence,Republic of Kiribati,Male,15-49 years,Depressive disorders,Percent,2021,0.0379147783109778,0.0483482047960154,0.0298557619802088
+Prevalence,Republic of Kiribati,Female,15-49 years,Depressive disorders,Percent,2021,0.0417946758826301,0.0520148438433132,0.033009234279342
+Prevalence,Republic of Tajikistan,Male,15-49 years,Depressive disorders,Percent,2021,0.0317475580545578,0.0400985521908945,0.0251529022024168
+Prevalence,Republic of Tajikistan,Female,15-49 years,Depressive disorders,Percent,2021,0.0494284900077728,0.0629982790249324,0.0386702193608639
+Prevalence,Republic of Fiji,Male,15-49 years,Depressive disorders,Percent,2021,0.0374606693528987,0.0475251149773768,0.0298157453059684
+Prevalence,Republic of Fiji,Female,15-49 years,Depressive disorders,Percent,2021,0.0464919393898797,0.0587053751341564,0.0369893548098337
+Prevalence,Socialist Republic of Viet Nam,Male,15-49 years,Depressive disorders,Percent,2021,0.0265371734103702,0.0324826486053587,0.0213053797668221
+Prevalence,Socialist Republic of Viet Nam,Female,15-49 years,Depressive disorders,Percent,2021,0.042752558313205,0.052828908512882,0.0344884141826732
+Prevalence,Mongolia,Male,15-49 years,Depressive disorders,Percent,2021,0.0479066865610766,0.0615545314231117,0.0378441859445774
+Prevalence,Mongolia,Female,15-49 years,Depressive disorders,Percent,2021,0.0604546431830172,0.0779752175384979,0.0485231636558642
+Prevalence,Kyrgyz Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0423513053496857,0.052873266828866,0.0335218212480582
+Prevalence,Kyrgyz Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.0575029965702324,0.0721690492717883,0.0451712446665964
+Prevalence,Democratic Socialist Republic of Sri Lanka,Male,15-49 years,Depressive disorders,Percent,2021,0.0412352021745791,0.0514708793766054,0.0329282429396528
+Prevalence,Democratic Socialist Republic of Sri Lanka,Female,15-49 years,Depressive disorders,Percent,2021,0.0493971791579422,0.0614645000209016,0.0400112777916858
+Prevalence,Democratic Republic of Timor-Leste,Male,15-49 years,Depressive disorders,Percent,2021,0.0333682485122744,0.0425839125648467,0.0263758542410496
+Prevalence,Democratic Republic of Timor-Leste,Female,15-49 years,Depressive disorders,Percent,2021,0.0420489254498938,0.055121256000776,0.0333321325355956
+Prevalence,Republic of the Philippines,Male,15-49 years,Depressive disorders,Percent,2021,0.0381750706047774,0.0450653009022601,0.0327202045734615
+Prevalence,Republic of the Philippines,Female,15-49 years,Depressive disorders,Percent,2021,0.0467275306689387,0.0552142457563171,0.0401200041610739
+Prevalence,Kingdom of Thailand,Male,15-49 years,Depressive disorders,Percent,2021,0.0346381963457322,0.043845934949416,0.0272520838685382
+Prevalence,Kingdom of Thailand,Female,15-49 years,Depressive disorders,Percent,2021,0.0461888814229314,0.0580658765820611,0.0361524072901229
+Prevalence,Republic of the Union of Myanmar,Male,15-49 years,Depressive disorders,Percent,2021,0.029640111784846,0.037222263977545,0.0237463702286898
+Prevalence,Republic of the Union of Myanmar,Female,15-49 years,Depressive disorders,Percent,2021,0.0355518997283011,0.0443353827712185,0.0284306514443508
+Prevalence,Republic of Kazakhstan,Male,15-49 years,Depressive disorders,Percent,2021,0.0429368515912125,0.0531919698576123,0.0338285251548762
+Prevalence,Republic of Kazakhstan,Female,15-49 years,Depressive disorders,Percent,2021,0.0574834038038698,0.0706275382145673,0.0445423735092339
+Prevalence,Republic of Armenia,Male,15-49 years,Depressive disorders,Percent,2021,0.0388772435875185,0.0489019243801009,0.0312247333601728
+Prevalence,Republic of Armenia,Female,15-49 years,Depressive disorders,Percent,2021,0.053083730896592,0.0676444540626722,0.0412089206359224
+Prevalence,Georgia,Male,15-49 years,Depressive disorders,Percent,2021,0.0441538888211292,0.0561019900523757,0.034560349877411
+Prevalence,Georgia,Female,15-49 years,Depressive disorders,Percent,2021,0.0562758863921696,0.0717572444014576,0.043121516711858
+Prevalence,Republic of Azerbaijan,Male,15-49 years,Depressive disorders,Percent,2021,0.032319015645941,0.0402800270083108,0.0256102871103259
+Prevalence,Republic of Azerbaijan,Female,15-49 years,Depressive disorders,Percent,2021,0.0507693281272158,0.0640958476782556,0.0401927120944571
+Prevalence,Lao People's Democratic Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0380518383828011,0.0482229922558923,0.0292386998516616
+Prevalence,Lao People's Democratic Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.0391588677777671,0.0493658068228708,0.0308917640698221
+Prevalence,Republic of Vanuatu,Male,15-49 years,Depressive disorders,Percent,2021,0.0369706717132677,0.0477591843179969,0.0289985882125505
+Prevalence,Republic of Vanuatu,Female,15-49 years,Depressive disorders,Percent,2021,0.0440996479821316,0.0549123417676921,0.0349751129283772
+Prevalence,Kingdom of Tonga,Male,15-49 years,Depressive disorders,Percent,2021,0.0301122031727738,0.0384828191890232,0.0240448962782493
+Prevalence,Kingdom of Tonga,Female,15-49 years,Depressive disorders,Percent,2021,0.0405352117005744,0.0519153912384162,0.0327654510082984
+Prevalence,Malaysia,Male,15-49 years,Depressive disorders,Percent,2021,0.0412809917387806,0.0529567208394693,0.0324102008327295
+Prevalence,Malaysia,Female,15-49 years,Depressive disorders,Percent,2021,0.0492653639929406,0.0624016233099143,0.038779533223669
+Prevalence,Federated States of Micronesia,Male,15-49 years,Depressive disorders,Percent,2021,0.0356281877048026,0.0457671959386288,0.027366861435105
+Prevalence,Federated States of Micronesia,Female,15-49 years,Depressive disorders,Percent,2021,0.0417338254017157,0.0530278488934599,0.0329497935662817
+Prevalence,Republic of Maldives,Male,15-49 years,Depressive disorders,Percent,2021,0.03654348212575,0.0455438331661535,0.0295138275024299
+Prevalence,Republic of Maldives,Female,15-49 years,Depressive disorders,Percent,2021,0.0511621360935447,0.0643567016976199,0.0413668752891197
+Prevalence,Republic of Indonesia,Male,15-49 years,Depressive disorders,Percent,2021,0.0299242247871579,0.0348344699902978,0.0257556441685791
+Prevalence,Republic of Indonesia,Female,15-49 years,Depressive disorders,Percent,2021,0.0425606796113692,0.0497547250861421,0.0365591822716166
+Prevalence,Independent State of Papua New Guinea,Male,15-49 years,Depressive disorders,Percent,2021,0.0373323406295364,0.0474830101544926,0.0291840405494048
+Prevalence,Independent State of Papua New Guinea,Female,15-49 years,Depressive disorders,Percent,2021,0.0444366827886909,0.0557000303332811,0.0354235154041826
+Prevalence,Independent State of Samoa,Male,15-49 years,Depressive disorders,Percent,2021,0.0340490411936986,0.0438758525544569,0.0261337718261737
+Prevalence,Independent State of Samoa,Female,15-49 years,Depressive disorders,Percent,2021,0.0406801495849021,0.0511129149474686,0.0314678750951073
+Prevalence,Kingdom of Cambodia,Male,15-49 years,Depressive disorders,Percent,2021,0.0381283345659499,0.0475778785004818,0.0296826036942587
+Prevalence,Kingdom of Cambodia,Female,15-49 years,Depressive disorders,Percent,2021,0.047259444788058,0.0587588030542722,0.0368984105324302
+Prevalence,Solomon Islands,Male,15-49 years,Depressive disorders,Percent,2021,0.0364714466643786,0.0463017299091539,0.0280682212133807
+Prevalence,Solomon Islands,Female,15-49 years,Depressive disorders,Percent,2021,0.0445565143895507,0.0562319678651963,0.0353187293215182
+Prevalence,Turkmenistan,Male,15-49 years,Depressive disorders,Percent,2021,0.0362695932897316,0.0449909870196276,0.0287854559568625
+Prevalence,Turkmenistan,Female,15-49 years,Depressive disorders,Percent,2021,0.050926004252895,0.0639052347912206,0.0398851929060951
+Prevalence,Republic of the Marshall Islands,Male,15-49 years,Depressive disorders,Percent,2021,0.0360322808339974,0.0460099879106114,0.0285510185392007
+Prevalence,Republic of the Marshall Islands,Female,15-49 years,Depressive disorders,Percent,2021,0.0424955084830236,0.0527428478221818,0.0338616752155146
+Prevalence,Taiwan (Province of China),Male,15-49 years,Depressive disorders,Percent,2021,0.0247235328741726,0.0307058971963905,0.0195101345166127
+Prevalence,Taiwan (Province of China),Female,15-49 years,Depressive disorders,Percent,2021,0.041492718856735,0.0512989467370551,0.0328684688486575
+Prevalence,Republic of Serbia,Male,15-49 years,Depressive disorders,Percent,2021,0.0313411925349477,0.0395542773543385,0.0249738079745847
+Prevalence,Republic of Serbia,Female,15-49 years,Depressive disorders,Percent,2021,0.052765059447398,0.0671710692255511,0.0414607800667958
+Prevalence,Republic of Slovenia,Male,15-49 years,Depressive disorders,Percent,2021,0.0333676883180453,0.041675520297772,0.0269842743062076
+Prevalence,Republic of Slovenia,Female,15-49 years,Depressive disorders,Percent,2021,0.0602909689494282,0.0767489406837471,0.0466154862511292
+Prevalence,Slovak Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0315024540392047,0.0393250890149457,0.0250199421294643
+Prevalence,Slovak Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.0562242574166447,0.0734585097886371,0.0436806451841959
+Prevalence,Czech Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0344362535006159,0.0430338778810706,0.0275496244747126
+Prevalence,Czech Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.056518371788819,0.0717434788768657,0.0441883964632586
+Prevalence,Australia,Male,15-49 years,Depressive disorders,Percent,2021,0.0598408785876515,0.0762264838012646,0.0474346991881353
+Prevalence,Australia,Female,15-49 years,Depressive disorders,Percent,2021,0.0870649512134105,0.1104942912228017,0.0679619031294551
+Prevalence,Hungary,Male,15-49 years,Depressive disorders,Percent,2021,0.033639197816522,0.0414839804600926,0.0267828084704112
+Prevalence,Hungary,Female,15-49 years,Depressive disorders,Percent,2021,0.0525433621857565,0.0657040814701978,0.0416909836891017
+Prevalence,Republic of Croatia,Male,15-49 years,Depressive disorders,Percent,2021,0.034214891784981,0.042231559017774,0.0273646288845267
+Prevalence,Republic of Croatia,Female,15-49 years,Depressive disorders,Percent,2021,0.0536704442668285,0.0673336909656183,0.0421496930833483
+Prevalence,Republic of Poland,Male,15-49 years,Depressive disorders,Percent,2021,0.0348223106079665,0.0401299207653028,0.0298107803541626
+Prevalence,Republic of Poland,Female,15-49 years,Depressive disorders,Percent,2021,0.0404223129485775,0.0473689670732115,0.0346943437626632
+Prevalence,Montenegro,Male,15-49 years,Depressive disorders,Percent,2021,0.0322214251734341,0.0399467447183886,0.025535173068668
+Prevalence,Montenegro,Female,15-49 years,Depressive disorders,Percent,2021,0.0579969114452457,0.0749247823244134,0.045211135260687
+Prevalence,Romania,Male,15-49 years,Depressive disorders,Percent,2021,0.0329519387954278,0.0407640145711212,0.0262388055485582
+Prevalence,Romania,Female,15-49 years,Depressive disorders,Percent,2021,0.0526368986089092,0.0665926233821179,0.0412140096078113
+Prevalence,Bosnia and Herzegovina,Male,15-49 years,Depressive disorders,Percent,2021,0.0308589867963801,0.0383370036342413,0.024793151280845
+Prevalence,Bosnia and Herzegovina,Female,15-49 years,Depressive disorders,Percent,2021,0.0564637367767617,0.0720913202081157,0.0435070119336584
+Prevalence,Ukraine,Male,15-49 years,Depressive disorders,Percent,2021,0.0532375331475152,0.0664397377271049,0.0425272044177187
+Prevalence,Ukraine,Female,15-49 years,Depressive disorders,Percent,2021,0.076129365279179,0.0961734121653158,0.0595182469203322
+Prevalence,Republic of Bulgaria,Male,15-49 years,Depressive disorders,Percent,2021,0.0322553821249254,0.039624662796047,0.0252277152521367
+Prevalence,Republic of Bulgaria,Female,15-49 years,Depressive disorders,Percent,2021,0.0582673924008567,0.0741766149168936,0.0456661687726739
+Prevalence,Republic of Albania,Male,15-49 years,Depressive disorders,Percent,2021,0.0260898645085841,0.0326391081057816,0.0209982297537996
+Prevalence,Republic of Albania,Female,15-49 years,Depressive disorders,Percent,2021,0.0511978298107966,0.0658708684280507,0.0400635461361921
+Prevalence,North Macedonia,Male,15-49 years,Depressive disorders,Percent,2021,0.0302256799836979,0.0377691854524005,0.023777340356717
+Prevalence,North Macedonia,Female,15-49 years,Depressive disorders,Percent,2021,0.054657682570701,0.0691354810042088,0.043130399499179
+Prevalence,Republic of Korea,Male,15-49 years,Depressive disorders,Percent,2021,0.027453684638977,0.0336963382524162,0.0220374129909803
+Prevalence,Republic of Korea,Female,15-49 years,Depressive disorders,Percent,2021,0.0403675412916447,0.0499311242564682,0.0322786325467855
+Prevalence,Republic of Lithuania,Male,15-49 years,Depressive disorders,Percent,2021,0.0596438394804138,0.0750134430715958,0.0473676993910922
+Prevalence,Republic of Lithuania,Female,15-49 years,Depressive disorders,Percent,2021,0.0824885335438493,0.1044115315871246,0.0637193327531263
+Prevalence,Japan,Male,15-49 years,Depressive disorders,Percent,2021,0.0340354099686817,0.0391089244993784,0.0299990468244244
+Prevalence,Japan,Female,15-49 years,Depressive disorders,Percent,2021,0.0444400008394479,0.0513697191690726,0.0390308138446265
+Prevalence,Republic of Singapore,Male,15-49 years,Depressive disorders,Percent,2021,0.0272374654248946,0.0333796728754284,0.0219052345507428
+Prevalence,Republic of Singapore,Female,15-49 years,Depressive disorders,Percent,2021,0.0350005544054205,0.044406582032158,0.0276449670753725
+Prevalence,Republic of Uzbekistan,Male,15-49 years,Depressive disorders,Percent,2021,0.0376029605390821,0.0480546513219184,0.0298808633464493
+Prevalence,Republic of Uzbekistan,Female,15-49 years,Depressive disorders,Percent,2021,0.0513641592907638,0.0657736022389377,0.0402293503281137
+Prevalence,Russian Federation,Male,15-49 years,Depressive disorders,Percent,2021,0.0481991884874593,0.0562607029650851,0.040998938929137
+Prevalence,Russian Federation,Female,15-49 years,Depressive disorders,Percent,2021,0.0603432656413448,0.070963180133954,0.0513942072601289
+Prevalence,Republic of Latvia,Male,15-49 years,Depressive disorders,Percent,2021,0.0527352862473656,0.0668041902994808,0.0402185903363922
+Prevalence,Republic of Latvia,Female,15-49 years,Depressive disorders,Percent,2021,0.0727574879192822,0.094044680324638,0.0554378440286544
+Prevalence,Brunei Darussalam,Male,15-49 years,Depressive disorders,Percent,2021,0.0208786827382963,0.0261436250682818,0.0168056775307213
+Prevalence,Brunei Darussalam,Female,15-49 years,Depressive disorders,Percent,2021,0.0320807903941646,0.0419010284116945,0.0254449738804165
+Prevalence,Republic of Moldova,Male,15-49 years,Depressive disorders,Percent,2021,0.0416714516959297,0.0518116433601794,0.0328770804889968
+Prevalence,Republic of Moldova,Female,15-49 years,Depressive disorders,Percent,2021,0.0604633839344177,0.0781912824169169,0.0467412916311416
+Prevalence,Republic of Cyprus,Male,15-49 years,Depressive disorders,Percent,2021,0.0358222809861967,0.0450413330848123,0.0284683143363315
+Prevalence,Republic of Cyprus,Female,15-49 years,Depressive disorders,Percent,2021,0.0659537852741775,0.0866892711449274,0.0509505319789049
+Prevalence,Kingdom of Denmark,Male,15-49 years,Depressive disorders,Percent,2021,0.0425859054547905,0.0527425055514252,0.033576937230876
+Prevalence,Kingdom of Denmark,Female,15-49 years,Depressive disorders,Percent,2021,0.0733819077310552,0.0945139538164752,0.0568619160773863
+Prevalence,Republic of Belarus,Male,15-49 years,Depressive disorders,Percent,2021,0.0556045732901463,0.0710503933222755,0.0436311666382554
+Prevalence,Republic of Belarus,Female,15-49 years,Depressive disorders,Percent,2021,0.0830153661611725,0.1067041280751258,0.0641975258062909
+Prevalence,Kingdom of Belgium,Male,15-49 years,Depressive disorders,Percent,2021,0.0488804981723712,0.0621470743003892,0.0386236517501592
+Prevalence,Kingdom of Belgium,Female,15-49 years,Depressive disorders,Percent,2021,0.0745754322213324,0.0937070537890449,0.0581292206092113
+Prevalence,Republic of Austria,Male,15-49 years,Depressive disorders,Percent,2021,0.0367676337571899,0.046413324125197,0.0290839731888425
+Prevalence,Republic of Austria,Female,15-49 years,Depressive disorders,Percent,2021,0.0643527934690835,0.0816526153592135,0.0494385918499373
+Prevalence,Republic of Estonia,Male,15-49 years,Depressive disorders,Percent,2021,0.0464869991595549,0.0584990078181624,0.0364694450683694
+Prevalence,Republic of Estonia,Female,15-49 years,Depressive disorders,Percent,2021,0.0701346306169084,0.089663667325108,0.0544583075627176
+Prevalence,Grand Duchy of Luxembourg,Male,15-49 years,Depressive disorders,Percent,2021,0.0412945279362496,0.0507422571686169,0.0331824802526756
+Prevalence,Grand Duchy of Luxembourg,Female,15-49 years,Depressive disorders,Percent,2021,0.0659233471401095,0.081957895374436,0.0514334667931461
+Prevalence,Republic of Italy,Male,15-49 years,Depressive disorders,Percent,2021,0.044888763098238,0.0530637579096895,0.0382014789295496
+Prevalence,Republic of Italy,Female,15-49 years,Depressive disorders,Percent,2021,0.0819116842894722,0.0973230809834662,0.0695110547211638
+Prevalence,New Zealand,Male,15-49 years,Depressive disorders,Percent,2021,0.0459009598165355,0.058691601315841,0.0371571649180917
+Prevalence,New Zealand,Female,15-49 years,Depressive disorders,Percent,2021,0.0712007567669757,0.0887656213573464,0.0572876917334679
+Prevalence,Principality of Andorra,Male,15-49 years,Depressive disorders,Percent,2021,0.0493460227340323,0.0626673667756711,0.0375099019331719
+Prevalence,Principality of Andorra,Female,15-49 years,Depressive disorders,Percent,2021,0.0788249965817698,0.1043323095738741,0.0602034168308615
+Prevalence,Federal Republic of Germany,Male,15-49 years,Depressive disorders,Percent,2021,0.0467708026087892,0.0591625376678757,0.0360947306376346
+Prevalence,Federal Republic of Germany,Female,15-49 years,Depressive disorders,Percent,2021,0.0703770977095294,0.0927650621011754,0.0543304512266922
+Prevalence,State of Israel,Male,15-49 years,Depressive disorders,Percent,2021,0.0510361493301906,0.0649966490767681,0.0399991920986223
+Prevalence,State of Israel,Female,15-49 years,Depressive disorders,Percent,2021,0.0835320107404077,0.1092144996138761,0.0639607022153202
+Prevalence,French Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0499044714645497,0.0627032640499604,0.0398165869191099
+Prevalence,French Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.0845927017137766,0.1091736262761885,0.0655879427381069
+Prevalence,Republic of Finland,Male,15-49 years,Depressive disorders,Percent,2021,0.0593461813187061,0.0749226422533394,0.0468919189313909
+Prevalence,Republic of Finland,Female,15-49 years,Depressive disorders,Percent,2021,0.092390105832507,0.1162716314553167,0.0732631613582098
+Prevalence,Hellenic Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0631567639032785,0.0810516693577375,0.0481123488960562
+Prevalence,Hellenic Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.1092836459764409,0.1469152313580463,0.0807246674955641
+Prevalence,Ireland,Male,15-49 years,Depressive disorders,Percent,2021,0.0593144347600001,0.0762945369062703,0.0465687651725958
+Prevalence,Ireland,Female,15-49 years,Depressive disorders,Percent,2021,0.0918083981946301,0.1167875949209663,0.070830089974349
+Prevalence,Republic of Iceland,Male,15-49 years,Depressive disorders,Percent,2021,0.0353862447816849,0.0439499910202242,0.0278995635021218
+Prevalence,Republic of Iceland,Female,15-49 years,Depressive disorders,Percent,2021,0.0583095807997188,0.0738267428103948,0.0449869074840297
+Prevalence,United Kingdom of Great Britain and Northern Ireland,Male,15-49 years,Depressive disorders,Percent,2021,0.063649507494318,0.0753492862919853,0.0544071715964635
+Prevalence,United Kingdom of Great Britain and Northern Ireland,Female,15-49 years,Depressive disorders,Percent,2021,0.0858297602536636,0.1023576496254569,0.0726808578675516
+Prevalence,Canada,Male,15-49 years,Depressive disorders,Percent,2021,0.0475354541028319,0.0616417915570386,0.0372600941012198
+Prevalence,Canada,Female,15-49 years,Depressive disorders,Percent,2021,0.0796446786462692,0.1028091526881126,0.061826761896325
+Prevalence,United States of America,Male,15-49 years,Depressive disorders,Percent,2021,0.0618438601135768,0.0711454777928651,0.054053870693621
+Prevalence,United States of America,Female,15-49 years,Depressive disorders,Percent,2021,0.1069509212456703,0.1217560370845781,0.0936825694198315
+Prevalence,Argentine Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0362869950692957,0.0442143784002342,0.0287107728861755
+Prevalence,Argentine Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.0555801126935562,0.068817752834587,0.0442681785617866
+Prevalence,Kingdom of Sweden,Male,15-49 years,Depressive disorders,Percent,2021,0.0481828713876027,0.0577047727647843,0.0400180217337503
+Prevalence,Kingdom of Sweden,Female,15-49 years,Depressive disorders,Percent,2021,0.0987416163704782,0.1203372291912611,0.0799561263879911
+Prevalence,Eastern Republic of Uruguay,Male,15-49 years,Depressive disorders,Percent,2021,0.0400763510317997,0.0502276961921217,0.031749179816541
+Prevalence,Eastern Republic of Uruguay,Female,15-49 years,Depressive disorders,Percent,2021,0.0709835293836962,0.0914481417080054,0.0537682699336262
+Prevalence,Kingdom of the Netherlands,Male,15-49 years,Depressive disorders,Percent,2021,0.0477712333056128,0.0601404799246398,0.0378598413628813
+Prevalence,Kingdom of the Netherlands,Female,15-49 years,Depressive disorders,Percent,2021,0.0767234028273186,0.0995732472236739,0.0594872566158503
+Prevalence,Republic of Chile,Male,15-49 years,Depressive disorders,Percent,2021,0.0457991886888437,0.0582885608484066,0.0359311616514123
+Prevalence,Republic of Chile,Female,15-49 years,Depressive disorders,Percent,2021,0.0883616582924986,0.1183454943512431,0.066686592107825
+Prevalence,Grenada,Male,15-49 years,Depressive disorders,Percent,2021,0.0376746856693836,0.0472134089927279,0.0297698516900793
+Prevalence,Grenada,Female,15-49 years,Depressive disorders,Percent,2021,0.057722618746343,0.0737752279290584,0.0442026059007048
+Prevalence,Swiss Confederation,Male,15-49 years,Depressive disorders,Percent,2021,0.0486496895790374,0.0611189495082622,0.0385329292484351
+Prevalence,Swiss Confederation,Female,15-49 years,Depressive disorders,Percent,2021,0.0801444662431446,0.1037872639620885,0.060985277376725
+Prevalence,Republic of Guyana,Male,15-49 years,Depressive disorders,Percent,2021,0.0628159989765267,0.0805091643097778,0.048676477521402
+Prevalence,Republic of Guyana,Female,15-49 years,Depressive disorders,Percent,2021,0.1001584480022179,0.1333302107252204,0.0765363296958055
+Prevalence,Commonwealth of Dominica,Male,15-49 years,Depressive disorders,Percent,2021,0.0340521444641842,0.0428747305085851,0.0267418052851294
+Prevalence,Commonwealth of Dominica,Female,15-49 years,Depressive disorders,Percent,2021,0.0575584064344331,0.0764439686794358,0.0430274765572046
+Prevalence,Kingdom of Norway,Male,15-49 years,Depressive disorders,Percent,2021,0.0509417808348882,0.0602916324570259,0.0427796350297795
+Prevalence,Kingdom of Norway,Female,15-49 years,Depressive disorders,Percent,2021,0.0769827830061122,0.0917457113304578,0.0641456914609093
+Prevalence,Portuguese Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0523511756064616,0.0677157901482491,0.0409645185351712
+Prevalence,Portuguese Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.1044428632064595,0.1394029249264853,0.0785528600561859
+Prevalence,Republic of Malta,Male,15-49 years,Depressive disorders,Percent,2021,0.036622370133323,0.0463920555531825,0.0287664797436233
+Prevalence,Republic of Malta,Female,15-49 years,Depressive disorders,Percent,2021,0.0650262619281979,0.0847937872754281,0.0500566855683516
+Prevalence,Barbados,Male,15-49 years,Depressive disorders,Percent,2021,0.0356153461664511,0.0457317201496637,0.0283406882111444
+Prevalence,Barbados,Female,15-49 years,Depressive disorders,Percent,2021,0.0607301161663021,0.0806114313482223,0.0465015505460423
+Prevalence,Republic of Cuba,Male,15-49 years,Depressive disorders,Percent,2021,0.0439617670877123,0.0560968445105525,0.0346658282740536
+Prevalence,Republic of Cuba,Female,15-49 years,Depressive disorders,Percent,2021,0.0674681746140138,0.0888695180822077,0.0534069440609228
+Prevalence,Belize,Male,15-49 years,Depressive disorders,Percent,2021,0.0369636678641986,0.0473502278511563,0.0289438872102016
+Prevalence,Belize,Female,15-49 years,Depressive disorders,Percent,2021,0.0570404080348064,0.0738219937603299,0.0436538852833158
+Prevalence,Commonwealth of the Bahamas,Male,15-49 years,Depressive disorders,Percent,2021,0.0312082663114905,0.039974724688196,0.0243146737011242
+Prevalence,Commonwealth of the Bahamas,Female,15-49 years,Depressive disorders,Percent,2021,0.0588466395786087,0.0772890781540963,0.0441688546592678
+Prevalence,Jamaica,Male,15-49 years,Depressive disorders,Percent,2021,0.0317522980145072,0.0402987970442167,0.0255782986667635
+Prevalence,Jamaica,Female,15-49 years,Depressive disorders,Percent,2021,0.0589037228257476,0.078091065134172,0.0440627747094475
+Prevalence,Saint Lucia,Male,15-49 years,Depressive disorders,Percent,2021,0.0424680005304693,0.0546228010654842,0.0328027481673195
+Prevalence,Saint Lucia,Female,15-49 years,Depressive disorders,Percent,2021,0.0629487343942088,0.0834021898556475,0.047566099673364
+Prevalence,Republic of Haiti,Male,15-49 years,Depressive disorders,Percent,2021,0.0362031080712608,0.0470744464418763,0.0285459662654488
+Prevalence,Republic of Haiti,Female,15-49 years,Depressive disorders,Percent,2021,0.0653812590562883,0.0857727963944362,0.0496339123987502
+Prevalence,Saint Vincent and the Grenadines,Male,15-49 years,Depressive disorders,Percent,2021,0.0426071599230538,0.0536695673395909,0.0332539765548639
+Prevalence,Saint Vincent and the Grenadines,Female,15-49 years,Depressive disorders,Percent,2021,0.0594797704753844,0.0780069820246375,0.0452180658521182
+Prevalence,Kingdom of Spain,Male,15-49 years,Depressive disorders,Percent,2021,0.0510456798484352,0.0632406187595568,0.0406898333330905
+Prevalence,Kingdom of Spain,Female,15-49 years,Depressive disorders,Percent,2021,0.1021236299964071,0.1280013157423626,0.0808271117045849
+Prevalence,Dominican Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0370057716293687,0.0478222399130715,0.0285281874311223
+Prevalence,Dominican Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.0666749190468669,0.0880928082072961,0.0494865232385418
+Prevalence,Republic of Suriname,Male,15-49 years,Depressive disorders,Percent,2021,0.062003294930976,0.0798672907422527,0.0468757924047542
+Prevalence,Republic of Suriname,Female,15-49 years,Depressive disorders,Percent,2021,0.0969976629164771,0.1265639311485903,0.0722848557596366
+Prevalence,Antigua and Barbuda,Male,15-49 years,Depressive disorders,Percent,2021,0.0300211532122854,0.0386772284813809,0.0237944770674368
+Prevalence,Antigua and Barbuda,Female,15-49 years,Depressive disorders,Percent,2021,0.0577912502716579,0.0768065443246091,0.0440300385947474
+Prevalence,Republic of El Salvador,Male,15-49 years,Depressive disorders,Percent,2021,0.0376017352906642,0.04903704172347,0.0295394313183302
+Prevalence,Republic of El Salvador,Female,15-49 years,Depressive disorders,Percent,2021,0.064913916769682,0.0860526033740744,0.0493714054425572
+Prevalence,Republic of Honduras,Male,15-49 years,Depressive disorders,Percent,2021,0.0326528638420034,0.0415256658474366,0.0253311463011168
+Prevalence,Republic of Honduras,Female,15-49 years,Depressive disorders,Percent,2021,0.0572125315146656,0.0745660200084534,0.0425392765834527
+Prevalence,Federative Republic of Brazil,Male,15-49 years,Depressive disorders,Percent,2021,0.0384200301039982,0.0441057277861046,0.0331361650216387
+Prevalence,Federative Republic of Brazil,Female,15-49 years,Depressive disorders,Percent,2021,0.0783419665807543,0.0917239156627488,0.0668154023647253
+Prevalence,Republic of Guatemala,Male,15-49 years,Depressive disorders,Percent,2021,0.0368668701675862,0.0485252076751507,0.0288912304141419
+Prevalence,Republic of Guatemala,Female,15-49 years,Depressive disorders,Percent,2021,0.0661415344949498,0.0912820585967701,0.0492531765038529
+Prevalence,Bolivarian Republic of Venezuela,Male,15-49 years,Depressive disorders,Percent,2021,0.0362681211019046,0.0460878529365689,0.0282827630938608
+Prevalence,Bolivarian Republic of Venezuela,Female,15-49 years,Depressive disorders,Percent,2021,0.0520678914348229,0.0681573943528243,0.0393577229246956
+Prevalence,Republic of Nicaragua,Male,15-49 years,Depressive disorders,Percent,2021,0.0371369510723635,0.0468846835037339,0.0293837321482869
+Prevalence,Republic of Nicaragua,Female,15-49 years,Depressive disorders,Percent,2021,0.0600646948205749,0.0770884252626646,0.0455703281037385
+Prevalence,Republic of Trinidad and Tobago,Male,15-49 years,Depressive disorders,Percent,2021,0.0538186696559501,0.070606101876434,0.0411248043207226
+Prevalence,Republic of Trinidad and Tobago,Female,15-49 years,Depressive disorders,Percent,2021,0.0768941349183777,0.1011816479121286,0.0561753455027919
+Prevalence,Republic of Ecuador,Male,15-49 years,Depressive disorders,Percent,2021,0.0389133752672511,0.0499403716645267,0.030161280408226
+Prevalence,Republic of Ecuador,Female,15-49 years,Depressive disorders,Percent,2021,0.063917063943228,0.0822534471061198,0.0498724618218002
+Prevalence,United Mexican States,Male,15-49 years,Depressive disorders,Percent,2021,0.0388219712125195,0.0447653370632047,0.0338416592070647
+Prevalence,United Mexican States,Female,15-49 years,Depressive disorders,Percent,2021,0.0781670277676545,0.0920770203543704,0.0664218167428465
+Prevalence,Republic of Panama,Male,15-49 years,Depressive disorders,Percent,2021,0.0346401228151775,0.044570476067233,0.0270042134650931
+Prevalence,Republic of Panama,Female,15-49 years,Depressive disorders,Percent,2021,0.0542894733265568,0.0710305257080632,0.0403195321619452
+Prevalence,Republic of Iraq,Male,15-49 years,Depressive disorders,Percent,2021,0.0481402808426024,0.0619347256253816,0.0380213588582974
+Prevalence,Republic of Iraq,Female,15-49 years,Depressive disorders,Percent,2021,0.0720408682599562,0.0931375695028182,0.0560302793272209
+Prevalence,Islamic Republic of Iran,Male,15-49 years,Depressive disorders,Percent,2021,0.0609897897254861,0.0750284737559573,0.0503401847464902
+Prevalence,Islamic Republic of Iran,Female,15-49 years,Depressive disorders,Percent,2021,0.1015689089942341,0.1233509805635722,0.0853731075736011
+Prevalence,Hashemite Kingdom of Jordan,Male,15-49 years,Depressive disorders,Percent,2021,0.0448357749028175,0.057301154025621,0.0346531637135931
+Prevalence,Hashemite Kingdom of Jordan,Female,15-49 years,Depressive disorders,Percent,2021,0.0794417456078321,0.1069003823704553,0.0604777142281431
+Prevalence,Republic of Costa Rica,Male,15-49 years,Depressive disorders,Percent,2021,0.039804861673711,0.0499545974699803,0.0308786645659357
+Prevalence,Republic of Costa Rica,Female,15-49 years,Depressive disorders,Percent,2021,0.0597588541568756,0.0789410228315697,0.0442978069983709
+Prevalence,People's Democratic Republic of Algeria,Male,15-49 years,Depressive disorders,Percent,2021,0.049671048463444,0.0658093572035673,0.0386908360231464
+Prevalence,People's Democratic Republic of Algeria,Female,15-49 years,Depressive disorders,Percent,2021,0.0771114561856017,0.1034938091288321,0.0600150510964304
+Prevalence,Kingdom of Bahrain,Male,15-49 years,Depressive disorders,Percent,2021,0.0654415488715149,0.0831427117059981,0.0493965285347634
+Prevalence,Kingdom of Bahrain,Female,15-49 years,Depressive disorders,Percent,2021,0.0901155524860243,0.1172685393571132,0.0676529041913286
+Prevalence,State of Qatar,Male,15-49 years,Depressive disorders,Percent,2021,0.0581390994426541,0.0770993968622975,0.0447811034704502
+Prevalence,State of Qatar,Female,15-49 years,Depressive disorders,Percent,2021,0.0805333665067611,0.1064956882457688,0.0615574617625768
+Prevalence,Arab Republic of Egypt,Male,15-49 years,Depressive disorders,Percent,2021,0.0460936337255585,0.0590311534360959,0.0355695011503408
+Prevalence,Arab Republic of Egypt,Female,15-49 years,Depressive disorders,Percent,2021,0.0755195745531398,0.0987317708805944,0.0573286127346601
+Prevalence,Sultanate of Oman,Male,15-49 years,Depressive disorders,Percent,2021,0.0552930816427383,0.0712065983343912,0.0416333222865479
+Prevalence,Sultanate of Oman,Female,15-49 years,Depressive disorders,Percent,2021,0.0795426663241608,0.106098091844968,0.0609137376945254
+Prevalence,Palestine,Male,15-49 years,Depressive disorders,Percent,2021,0.0933987225289238,0.1209394410002284,0.0710138574667057
+Prevalence,Palestine,Female,15-49 years,Depressive disorders,Percent,2021,0.1013852901300986,0.1337478583816201,0.076731161345044
+Prevalence,Republic of Colombia,Male,15-49 years,Depressive disorders,Percent,2021,0.0297114178320697,0.0376059234247483,0.0235527920133446
+Prevalence,Republic of Colombia,Female,15-49 years,Depressive disorders,Percent,2021,0.032562882783146,0.0406334804260548,0.0254614994818821
+Prevalence,State of Libya,Male,15-49 years,Depressive disorders,Percent,2021,0.0572460192517947,0.0739984170229529,0.0447902796176472
+Prevalence,State of Libya,Female,15-49 years,Depressive disorders,Percent,2021,0.0810627360456394,0.1050235613494342,0.0630337991750213
+Prevalence,Kingdom of Morocco,Male,15-49 years,Depressive disorders,Percent,2021,0.0675463219781565,0.0861502402991368,0.0522429013081589
+Prevalence,Kingdom of Morocco,Female,15-49 years,Depressive disorders,Percent,2021,0.0951337753698788,0.12471279306846,0.0739550893239494
+Prevalence,Republic of Peru,Male,15-49 years,Depressive disorders,Percent,2021,0.0258816688774824,0.032337883184068,0.0203888176086326
+Prevalence,Republic of Peru,Female,15-49 years,Depressive disorders,Percent,2021,0.0437219067009379,0.0555929207392883,0.0339980819866826
+Prevalence,State of Kuwait,Male,15-49 years,Depressive disorders,Percent,2021,0.0500831435778759,0.0647549671656442,0.0382376613935025
+Prevalence,State of Kuwait,Female,15-49 years,Depressive disorders,Percent,2021,0.0729092546156909,0.0965037922861881,0.0553085197151203
+Prevalence,People's Republic of Bangladesh,Male,15-49 years,Depressive disorders,Percent,2021,0.0483315832811805,0.0622829226413738,0.0367466811784431
+Prevalence,People's Republic of Bangladesh,Female,15-49 years,Depressive disorders,Percent,2021,0.0830115429237038,0.1073003470296856,0.0639896612049094
+Prevalence,Lebanese Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0679117812771948,0.0889680746875304,0.0522575743469093
+Prevalence,Lebanese Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.1046359471483578,0.1365628858652836,0.0786661229230616
+Prevalence,Islamic Republic of Afghanistan,Male,15-49 years,Depressive disorders,Percent,2021,0.0666412920636043,0.0880482932869775,0.0507574788095207
+Prevalence,Islamic Republic of Afghanistan,Female,15-49 years,Depressive disorders,Percent,2021,0.0908745771841265,0.1186979741705702,0.0689794126682754
+Prevalence,Kingdom of Saudi Arabia,Male,15-49 years,Depressive disorders,Percent,2021,0.0547763690923566,0.0698695661643606,0.0427954283652784
+Prevalence,Kingdom of Saudi Arabia,Female,15-49 years,Depressive disorders,Percent,2021,0.0783966909893587,0.1026482206696011,0.0606892830472105
+Prevalence,Republic of Yemen,Male,15-49 years,Depressive disorders,Percent,2021,0.0539059223752378,0.0719136419011804,0.0420169694971291
+Prevalence,Republic of Yemen,Female,15-49 years,Depressive disorders,Percent,2021,0.0822010836767799,0.10714006698937,0.0625458414488109
+Prevalence,United Arab Emirates,Male,15-49 years,Depressive disorders,Percent,2021,0.0572158201370476,0.0774080146674691,0.043096214737286
+Prevalence,United Arab Emirates,Female,15-49 years,Depressive disorders,Percent,2021,0.078253557057554,0.1023370482848252,0.0596584522599219
+Prevalence,Syrian Arab Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0511659297526352,0.0674307013420391,0.0389634576862516
+Prevalence,Syrian Arab Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.0765015668133046,0.1022822385892322,0.0568797381945592
+Prevalence,Plurinational State of Bolivia,Male,15-49 years,Depressive disorders,Percent,2021,0.0389818721780009,0.0515638558575268,0.0302066636972571
+Prevalence,Plurinational State of Bolivia,Female,15-49 years,Depressive disorders,Percent,2021,0.0707921666746521,0.0937929599045239,0.0539544802356054
+Prevalence,Islamic Republic of Pakistan,Male,15-49 years,Depressive disorders,Percent,2021,0.0425434134454518,0.0514710643956281,0.0350474689335123
+Prevalence,Islamic Republic of Pakistan,Female,15-49 years,Depressive disorders,Percent,2021,0.0632277275199861,0.0764264098868278,0.0529810904064327
+Prevalence,Republic of Tunisia,Male,15-49 years,Depressive disorders,Percent,2021,0.0760871966071529,0.0986005929733695,0.0587135145444281
+Prevalence,Republic of Tunisia,Female,15-49 years,Depressive disorders,Percent,2021,0.1032843825247595,0.1362458857724037,0.0774239536106607
+Prevalence,Republic of Paraguay,Male,15-49 years,Depressive disorders,Percent,2021,0.0318513973526701,0.039312551032234,0.0250268062288806
+Prevalence,Republic of Paraguay,Female,15-49 years,Depressive disorders,Percent,2021,0.0725726100422853,0.0955865018410938,0.0553127325413923
+Prevalence,Kingdom of Bhutan,Male,15-49 years,Depressive disorders,Percent,2021,0.0419122755714544,0.05350173522568,0.0326809903891146
+Prevalence,Kingdom of Bhutan,Female,15-49 years,Depressive disorders,Percent,2021,0.0563629342319223,0.073064223891256,0.0437985414520789
+Prevalence,Federal Democratic Republic of Nepal,Male,15-49 years,Depressive disorders,Percent,2021,0.055551679946698,0.0711628324076978,0.0420959379133183
+Prevalence,Federal Democratic Republic of Nepal,Female,15-49 years,Depressive disorders,Percent,2021,0.082155171071365,0.1062597393681152,0.0625210439658604
+Prevalence,Republic of Djibouti,Male,15-49 years,Depressive disorders,Percent,2021,0.0481460011893159,0.0615084639094574,0.0369664239271331
+Prevalence,Republic of Djibouti,Female,15-49 years,Depressive disorders,Percent,2021,0.0706809366987171,0.0893342916230804,0.0552025585526292
+Prevalence,Republic of Turkey,Male,15-49 years,Depressive disorders,Percent,2021,0.048693948816737,0.0615703656368472,0.0373573411102671
+Prevalence,Republic of Turkey,Female,15-49 years,Depressive disorders,Percent,2021,0.0822985598990879,0.1075731527218453,0.0624478888524364
+Prevalence,Union of the Comoros,Male,15-49 years,Depressive disorders,Percent,2021,0.0448534197567512,0.0576601313049286,0.0348790063113242
+Prevalence,Union of the Comoros,Female,15-49 years,Depressive disorders,Percent,2021,0.0663165201370466,0.0861342044703089,0.0520607437410566
+Prevalence,Republic of India,Male,15-49 years,Depressive disorders,Percent,2021,0.044618123006479,0.0520056408769197,0.0382253813349121
+Prevalence,Republic of India,Female,15-49 years,Depressive disorders,Percent,2021,0.0605497045207448,0.0704081503700462,0.0521515698810642
+Prevalence,Gabonese Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.07567860861682,0.099549453391453,0.0586367058526843
+Prevalence,Gabonese Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.0921351513033717,0.1206031706929182,0.0699993678128301
+Prevalence,Republic of Equatorial Guinea,Male,15-49 years,Depressive disorders,Percent,2021,0.0685979552058082,0.0904540358520641,0.0525929287574243
+Prevalence,Republic of Equatorial Guinea,Female,15-49 years,Depressive disorders,Percent,2021,0.0963177672303223,0.1271736214664375,0.0744764208456891
+Prevalence,Republic of the Congo,Male,15-49 years,Depressive disorders,Percent,2021,0.0678330686762676,0.0896728458669968,0.0514833673273733
+Prevalence,Republic of the Congo,Female,15-49 years,Depressive disorders,Percent,2021,0.0973640530250269,0.1295846624134193,0.0737258379622285
+Prevalence,Republic of Mauritius,Male,15-49 years,Depressive disorders,Percent,2021,0.0461780467809734,0.0581357193705034,0.0356422355470807
+Prevalence,Republic of Mauritius,Female,15-49 years,Depressive disorders,Percent,2021,0.0731916858494477,0.0933914896616568,0.0562464238794983
+Prevalence,Republic of Madagascar,Male,15-49 years,Depressive disorders,Percent,2021,0.0497303842542271,0.0643077547166657,0.038441802965412
+Prevalence,Republic of Madagascar,Female,15-49 years,Depressive disorders,Percent,2021,0.0704678734655897,0.0901241770571994,0.0544885277630623
+Prevalence,Federal Democratic Republic of Ethiopia,Male,15-49 years,Depressive disorders,Percent,2021,0.0515473095515077,0.0623314214527902,0.0431453665649363
+Prevalence,Federal Democratic Republic of Ethiopia,Female,15-49 years,Depressive disorders,Percent,2021,0.0647168512477922,0.0773330589144689,0.0547257802771349
+Prevalence,Republic of Botswana,Male,15-49 years,Depressive disorders,Percent,2021,0.055436413659512,0.0718136327578443,0.0420611922968995
+Prevalence,Republic of Botswana,Female,15-49 years,Depressive disorders,Percent,2021,0.0769561648395784,0.0997849472270809,0.0599979134102366
+Prevalence,State of Eritrea,Male,15-49 years,Depressive disorders,Percent,2021,0.049632725126648,0.0627957646903213,0.0382975941447917
+Prevalence,State of Eritrea,Female,15-49 years,Depressive disorders,Percent,2021,0.0707098488991101,0.0904339721016532,0.0553740605248697
+Prevalence,Republic of Malawi,Male,15-49 years,Depressive disorders,Percent,2021,0.0427688170961635,0.0542714064157967,0.0337623358190704
+Prevalence,Republic of Malawi,Female,15-49 years,Depressive disorders,Percent,2021,0.0629495807666725,0.0810856680791129,0.048991180747633
+Prevalence,Republic of Kenya,Male,15-49 years,Depressive disorders,Percent,2021,0.0496451900291658,0.0573622975876147,0.0427094918172791
+Prevalence,Republic of Kenya,Female,15-49 years,Depressive disorders,Percent,2021,0.0675603979867737,0.0789182563404268,0.0580332554107518
+Prevalence,Republic of Angola,Male,15-49 years,Depressive disorders,Percent,2021,0.0702592620164826,0.0907013314211729,0.0532814416870816
+Prevalence,Republic of Angola,Female,15-49 years,Depressive disorders,Percent,2021,0.0979410980334249,0.1305592007290386,0.0756362783050583
+Prevalence,Republic of Uganda,Male,15-49 years,Depressive disorders,Percent,2021,0.0714144464114373,0.093758028576064,0.054078032371088
+Prevalence,Republic of Uganda,Female,15-49 years,Depressive disorders,Percent,2021,0.0944099712410818,0.1226753116976742,0.0730171021944431
+Prevalence,Kingdom of Lesotho,Male,15-49 years,Depressive disorders,Percent,2021,0.073334850784866,0.096368304331943,0.0569409809216308
+Prevalence,Kingdom of Lesotho,Female,15-49 years,Depressive disorders,Percent,2021,0.1084056607661882,0.1403623078381209,0.0842885064442414
+Prevalence,Republic of Burundi,Male,15-49 years,Depressive disorders,Percent,2021,0.0491935510498614,0.0631923628959639,0.0374743110868252
+Prevalence,Republic of Burundi,Female,15-49 years,Depressive disorders,Percent,2021,0.0714119273826961,0.0925789307158239,0.0539359868953324
+Prevalence,United Republic of Tanzania,Male,15-49 years,Depressive disorders,Percent,2021,0.0452827263537072,0.0594326282395087,0.0356289277015662
+Prevalence,United Republic of Tanzania,Female,15-49 years,Depressive disorders,Percent,2021,0.0693841338587408,0.0897033885381733,0.0545206181362582
+Prevalence,Federal Republic of Somalia,Male,15-49 years,Depressive disorders,Percent,2021,0.0501709081386933,0.0641716131998154,0.0389426671590817
+Prevalence,Federal Republic of Somalia,Female,15-49 years,Depressive disorders,Percent,2021,0.0789662821835853,0.101183247210821,0.0618561922166151
+Prevalence,Republic of Zambia,Male,15-49 years,Depressive disorders,Percent,2021,0.0474859253445189,0.0609070736127994,0.036943019646168
+Prevalence,Republic of Zambia,Female,15-49 years,Depressive disorders,Percent,2021,0.0627917192826332,0.0804418652390119,0.0492646317705581
+Prevalence,Democratic Republic of the Congo,Male,15-49 years,Depressive disorders,Percent,2021,0.0644547474376632,0.084063699041471,0.0493905747758275
+Prevalence,Democratic Republic of the Congo,Female,15-49 years,Depressive disorders,Percent,2021,0.0868424520232464,0.1127954896837717,0.0664488486416311
+Prevalence,Central African Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0717178647440765,0.0962130534806807,0.0534301112549379
+Prevalence,Central African Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.094085177913769,0.1235652102341131,0.0709797552158579
+Prevalence,Republic of Benin,Male,15-49 years,Depressive disorders,Percent,2021,0.0422028060211395,0.0539052826713697,0.0329330385699782
+Prevalence,Republic of Benin,Female,15-49 years,Depressive disorders,Percent,2021,0.0631068838011056,0.082784899028354,0.0497279948581532
+Prevalence,Republic of Guinea-Bissau,Male,15-49 years,Depressive disorders,Percent,2021,0.0402000095174007,0.0515001046185649,0.0318867827575076
+Prevalence,Republic of Guinea-Bissau,Female,15-49 years,Depressive disorders,Percent,2021,0.067764503947385,0.0867418202963132,0.052526057480083
+Prevalence,Republic of Ghana,Male,15-49 years,Depressive disorders,Percent,2021,0.0436165318818002,0.0563974004001037,0.0340614686035298
+Prevalence,Republic of Ghana,Female,15-49 years,Depressive disorders,Percent,2021,0.0649254195798764,0.0837747716692251,0.0507661612461573
+Prevalence,Republic of Zimbabwe,Male,15-49 years,Depressive disorders,Percent,2021,0.0368802220653836,0.0464117717439126,0.029436793750406
+Prevalence,Republic of Zimbabwe,Female,15-49 years,Depressive disorders,Percent,2021,0.0512857538447283,0.0651801103129265,0.0406217606878484
+Prevalence,Republic of Cabo Verde,Male,15-49 years,Depressive disorders,Percent,2021,0.0644138528046066,0.0832849367195643,0.0494765694767117
+Prevalence,Republic of Cabo Verde,Female,15-49 years,Depressive disorders,Percent,2021,0.0752014773106653,0.0971686053052076,0.0575281611827035
+Prevalence,Republic of the Gambia,Male,15-49 years,Depressive disorders,Percent,2021,0.0381830385893534,0.0485177244809763,0.0300097878401102
+Prevalence,Republic of the Gambia,Female,15-49 years,Depressive disorders,Percent,2021,0.0950445829239546,0.1230553030253836,0.0724932993791988
+Prevalence,Republic of Cameroon,Male,15-49 years,Depressive disorders,Percent,2021,0.0435489018573733,0.0557635366593204,0.0339539127780448
+Prevalence,Republic of Cameroon,Female,15-49 years,Depressive disorders,Percent,2021,0.0656463875058828,0.0852773729618566,0.0511584628909785
+Prevalence,Republic of Chad,Male,15-49 years,Depressive disorders,Percent,2021,0.0453640886269412,0.0601897364775242,0.0344676377919162
+Prevalence,Republic of Chad,Female,15-49 years,Depressive disorders,Percent,2021,0.0705076656269695,0.0937078217615513,0.0530874111416953
+Prevalence,Burkina Faso,Male,15-49 years,Depressive disorders,Percent,2021,0.0415380229107932,0.054151539221914,0.0326963645423659
+Prevalence,Burkina Faso,Female,15-49 years,Depressive disorders,Percent,2021,0.0581417343213548,0.0746987477174621,0.0455150334242081
+Prevalence,Republic of Côte d'Ivoire,Male,15-49 years,Depressive disorders,Percent,2021,0.0368432704314772,0.0452609080474957,0.0288465851373162
+Prevalence,Republic of Côte d'Ivoire,Female,15-49 years,Depressive disorders,Percent,2021,0.0560071395109227,0.0703349036559533,0.0436838653602709
+Prevalence,Republic of Seychelles,Male,15-49 years,Depressive disorders,Percent,2021,0.0371526999154223,0.0466766154291181,0.0293719951394371
+Prevalence,Republic of Seychelles,Female,15-49 years,Depressive disorders,Percent,2021,0.0441857852909996,0.0555358999735108,0.0350279921263941
+Prevalence,Republic of Mozambique,Male,15-49 years,Depressive disorders,Percent,2021,0.0541127286656954,0.0709646941140211,0.0416170755587477
+Prevalence,Republic of Mozambique,Female,15-49 years,Depressive disorders,Percent,2021,0.0729750648457279,0.0959054558558016,0.0565478783701928
+Prevalence,Kingdom of Eswatini,Male,15-49 years,Depressive disorders,Percent,2021,0.0651950743830249,0.0866704993708782,0.049901229524358
+Prevalence,Kingdom of Eswatini,Female,15-49 years,Depressive disorders,Percent,2021,0.0856840359176775,0.1121800937500176,0.0651028424503775
+Prevalence,Republic of Namibia,Male,15-49 years,Depressive disorders,Percent,2021,0.0513781773560323,0.065497506809818,0.0399498314982
+Prevalence,Republic of Namibia,Female,15-49 years,Depressive disorders,Percent,2021,0.0664443403523418,0.0854956927945424,0.0515770327240824
+Prevalence,Puerto Rico,Male,15-49 years,Depressive disorders,Percent,2021,0.0329831602367404,0.0413320204338647,0.0260296526336939
+Prevalence,Puerto Rico,Female,15-49 years,Depressive disorders,Percent,2021,0.0472811119459927,0.0608633894517661,0.0369074749198649
+Prevalence,Republic of Senegal,Male,15-49 years,Depressive disorders,Percent,2021,0.04169658121683,0.0528645899566003,0.0329579844006604
+Prevalence,Republic of Senegal,Female,15-49 years,Depressive disorders,Percent,2021,0.0597232960127172,0.0776563261032984,0.0468596382906212
+Prevalence,Democratic Republic of Sao Tome and Principe,Male,15-49 years,Depressive disorders,Percent,2021,0.035416129603419,0.0446215535117689,0.0282363427599932
+Prevalence,Democratic Republic of Sao Tome and Principe,Female,15-49 years,Depressive disorders,Percent,2021,0.0588798979546451,0.0740825913537492,0.0468316399408949
+Prevalence,Republic of Liberia,Male,15-49 years,Depressive disorders,Percent,2021,0.0336422230655294,0.0425880430152829,0.0260804406807399
+Prevalence,Republic of Liberia,Female,15-49 years,Depressive disorders,Percent,2021,0.075999017763365,0.0981872112701287,0.0581734491684691
+Prevalence,Republic of Sierra Leone,Male,15-49 years,Depressive disorders,Percent,2021,0.0375269593326173,0.0475818156577388,0.0294156871386625
+Prevalence,Republic of Sierra Leone,Female,15-49 years,Depressive disorders,Percent,2021,0.062419168341933,0.0805992185710585,0.0488629074433361
+Prevalence,Republic of Palau,Male,15-49 years,Depressive disorders,Percent,2021,0.0410852314791533,0.0543893412785345,0.0318369665112906
+Prevalence,Republic of Palau,Female,15-49 years,Depressive disorders,Percent,2021,0.0502720652630271,0.0657310350608579,0.0396202315107989
+Prevalence,Republic of Nauru,Male,15-49 years,Depressive disorders,Percent,2021,0.0387172128323243,0.0512266602930244,0.0298625655515908
+Prevalence,Republic of Nauru,Female,15-49 years,Depressive disorders,Percent,2021,0.0472828805685845,0.0608240450860143,0.0366990522310407
+Prevalence,Northern Mariana Islands,Male,15-49 years,Depressive disorders,Percent,2021,0.0413731123123652,0.0537184851822677,0.0331298712195664
+Prevalence,Northern Mariana Islands,Female,15-49 years,Depressive disorders,Percent,2021,0.0439866949978757,0.0552967931856835,0.0352005437489408
+Prevalence,Republic of Niue,Male,15-49 years,Depressive disorders,Percent,2021,0.0394979303094215,0.0513801741688207,0.0300208967730602
+Prevalence,Republic of Niue,Female,15-49 years,Depressive disorders,Percent,2021,0.048859023422515,0.0625702974393467,0.0380366165674349
+Prevalence,Republic of the Niger,Male,15-49 years,Depressive disorders,Percent,2021,0.034270092131438,0.0438551932004599,0.0270678664724441
+Prevalence,Republic of the Niger,Female,15-49 years,Depressive disorders,Percent,2021,0.0567557763193075,0.072772576884985,0.0448331679933481
+Prevalence,Republic of South Africa,Male,15-49 years,Depressive disorders,Percent,2021,0.0557791052987751,0.0645718406964313,0.0482431405304497
+Prevalence,Republic of South Africa,Female,15-49 years,Depressive disorders,Percent,2021,0.0826479362396229,0.0961307747250597,0.0710847169309818
+Prevalence,Guam,Male,15-49 years,Depressive disorders,Percent,2021,0.0475305021694615,0.0604328654400526,0.0375533603242684
+Prevalence,Guam,Female,15-49 years,Depressive disorders,Percent,2021,0.0484561666240954,0.0603186124325208,0.0394244021546591
+Prevalence,Republic of Mali,Male,15-49 years,Depressive disorders,Percent,2021,0.0323274154858494,0.0408696502271647,0.0254126361145735
+Prevalence,Republic of Mali,Female,15-49 years,Depressive disorders,Percent,2021,0.0519311987048374,0.066713294113175,0.0406343349657543
+Prevalence,Republic of Guinea,Male,15-49 years,Depressive disorders,Percent,2021,0.0394862402767424,0.0503463433968417,0.0309419417311986
+Prevalence,Republic of Guinea,Female,15-49 years,Depressive disorders,Percent,2021,0.0661854637822113,0.085579525358126,0.0523700371577872
+Prevalence,Federal Republic of Nigeria,Male,15-49 years,Depressive disorders,Percent,2021,0.0340669615550336,0.0397546654420811,0.0294092330160686
+Prevalence,Federal Republic of Nigeria,Female,15-49 years,Depressive disorders,Percent,2021,0.0503127431967487,0.0586964946769724,0.0433065217087676
+Prevalence,Islamic Republic of Mauritania,Male,15-49 years,Depressive disorders,Percent,2021,0.0381987967249049,0.0484591819400515,0.0296245668107404
+Prevalence,Islamic Republic of Mauritania,Female,15-49 years,Depressive disorders,Percent,2021,0.0511268963873014,0.0655535974636459,0.0398321043347504
+Prevalence,Republic of Rwanda,Male,15-49 years,Depressive disorders,Percent,2021,0.0457093731857213,0.0582323990054523,0.0357206152450514
+Prevalence,Republic of Rwanda,Female,15-49 years,Depressive disorders,Percent,2021,0.0816756951233811,0.1051692164450135,0.063471969481154
+Prevalence,Cook Islands,Male,15-49 years,Depressive disorders,Percent,2021,0.0400195794862513,0.0540117913088311,0.0303925949253929
+Prevalence,Cook Islands,Female,15-49 years,Depressive disorders,Percent,2021,0.0488536215970982,0.0637173982699507,0.0381287658539558
+Prevalence,Principality of Monaco,Male,15-49 years,Depressive disorders,Percent,2021,0.0546747914107087,0.0719006166262838,0.0413648401200177
+Prevalence,Principality of Monaco,Female,15-49 years,Depressive disorders,Percent,2021,0.0889516929017053,0.1184776187542326,0.0663325194388029
+Prevalence,Greenland,Male,15-49 years,Depressive disorders,Percent,2021,0.0942156295961966,0.1210177162279039,0.0735033910820649
+Prevalence,Greenland,Female,15-49 years,Depressive disorders,Percent,2021,0.157832939164376,0.2011031337981136,0.1238579676863649
+Prevalence,Bermuda,Male,15-49 years,Depressive disorders,Percent,2021,0.0358192723010441,0.0455204251156244,0.0276174949575654
+Prevalence,Bermuda,Female,15-49 years,Depressive disorders,Percent,2021,0.060724807666546,0.0787907059131991,0.0455691630132177
+Prevalence,American Samoa,Male,15-49 years,Depressive disorders,Percent,2021,0.030680463682746,0.0387495779880549,0.0242906093695346
+Prevalence,American Samoa,Female,15-49 years,Depressive disorders,Percent,2021,0.0401417114829189,0.0505705637497611,0.0319181759109248
+Prevalence,Tuvalu,Male,15-49 years,Depressive disorders,Percent,2021,0.0389234822419587,0.0511410885612559,0.0299400187439759
+Prevalence,Tuvalu,Female,15-49 years,Depressive disorders,Percent,2021,0.0471061649275288,0.0614903841093817,0.0367191864522382
+Prevalence,Republic of South Sudan,Male,15-49 years,Depressive disorders,Percent,2021,0.0442527767609314,0.0579442133810696,0.0343351744938652
+Prevalence,Republic of South Sudan,Female,15-49 years,Depressive disorders,Percent,2021,0.0691715347267509,0.0895037240312592,0.053636074594942
+Prevalence,Tokelau,Male,15-49 years,Depressive disorders,Percent,2021,0.039344183928745,0.052556247052025,0.0303482559159214
+Prevalence,Tokelau,Female,15-49 years,Depressive disorders,Percent,2021,0.0483221026597253,0.0629454676603076,0.0380304506726301
+Prevalence,Togolese Republic,Male,15-49 years,Depressive disorders,Percent,2021,0.0423387981916305,0.0538622016860004,0.0328952538317821
+Prevalence,Togolese Republic,Female,15-49 years,Depressive disorders,Percent,2021,0.0641752450088242,0.0815175565295714,0.0493444443952736
+Prevalence,Republic of San Marino,Male,15-49 years,Depressive disorders,Percent,2021,0.0554954855883202,0.073116482648659,0.0420270033510334
+Prevalence,Republic of San Marino,Female,15-49 years,Depressive disorders,Percent,2021,0.0900623953499408,0.1209131855315423,0.0668925794231641
+Prevalence,United States Virgin Islands,Male,15-49 years,Depressive disorders,Percent,2021,0.038092560688167,0.0481186169859614,0.0300214736617007
+Prevalence,United States Virgin Islands,Female,15-49 years,Depressive disorders,Percent,2021,0.0592280544049459,0.0759238833149127,0.0458783953137124
+Prevalence,Saint Kitts and Nevis,Male,15-49 years,Depressive disorders,Percent,2021,0.04203508930865,0.0567809503236347,0.0313031044670641
+Prevalence,Saint Kitts and Nevis,Female,15-49 years,Depressive disorders,Percent,2021,0.0712187037110245,0.0976108055599171,0.0520049077627823
+Prevalence,Republic of Sudan,Male,15-49 years,Depressive disorders,Percent,2021,0.0607447233483128,0.0801606035607573,0.045975507517937
+Prevalence,Republic of Sudan,Female,15-49 years,Depressive disorders,Percent,2021,0.0756167975610176,0.0993356037652412,0.0577899363737009

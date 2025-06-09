@@ -1,0 +1,409 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,Democratic People's Republic of Korea,Male,15-49 years,Bipolar disorder,Percent,2021,0.0024459672826175,0.0033355536814153,0.0016443052260964
+Prevalence,Democratic People's Republic of Korea,Female,15-49 years,Bipolar disorder,Percent,2021,0.0025461380574965,0.0034722816543203,0.0017305203052337
+Prevalence,People's Republic of China,Male,15-49 years,Bipolar disorder,Percent,2021,0.0023714153170635,0.0028845276780862,0.0019218324200931
+Prevalence,People's Republic of China,Female,15-49 years,Bipolar disorder,Percent,2021,0.002573068576355,0.0031041569758611,0.0020848585347573
+Prevalence,Democratic Republic of Timor-Leste,Male,15-49 years,Bipolar disorder,Percent,2021,0.0038152276578504,0.0052951124766917,0.0025735302794741
+Prevalence,Democratic Republic of Timor-Leste,Female,15-49 years,Bipolar disorder,Percent,2021,0.0039798898376543,0.0054668294600648,0.0027368537447213
+Prevalence,Kingdom of Thailand,Male,15-49 years,Bipolar disorder,Percent,2021,0.0042391135573217,0.0056823688240382,0.0029256259003508
+Prevalence,Kingdom of Thailand,Female,15-49 years,Bipolar disorder,Percent,2021,0.0044326006569623,0.0059655102563365,0.0031497990079571
+Prevalence,Republic of the Union of Myanmar,Male,15-49 years,Bipolar disorder,Percent,2021,0.0040893450916979,0.0055315049067085,0.002814406011282
+Prevalence,Republic of the Union of Myanmar,Female,15-49 years,Bipolar disorder,Percent,2021,0.0042353421823628,0.0057505720647847,0.0029046379253464
+Prevalence,Republic of Vanuatu,Male,15-49 years,Bipolar disorder,Percent,2021,0.0033778710083362,0.0046914105337206,0.0022819120456354
+Prevalence,Republic of Vanuatu,Female,15-49 years,Bipolar disorder,Percent,2021,0.003482310225073,0.0049490023675387,0.0023336048192951
+Prevalence,Democratic Socialist Republic of Sri Lanka,Male,15-49 years,Bipolar disorder,Percent,2021,0.0041578506526968,0.0056964566985791,0.0028155336429815
+Prevalence,Democratic Socialist Republic of Sri Lanka,Female,15-49 years,Bipolar disorder,Percent,2021,0.0043454519185119,0.0058993241456389,0.0030519455480018
+Prevalence,Republic of the Philippines,Male,15-49 years,Bipolar disorder,Percent,2021,0.0041487459559556,0.0050481417430418,0.0033299266368104
+Prevalence,Republic of the Philippines,Female,15-49 years,Bipolar disorder,Percent,2021,0.0042831286799888,0.0051997882352064,0.0034218485862291
+Prevalence,Kingdom of Tonga,Male,15-49 years,Bipolar disorder,Percent,2021,0.0034128211683817,0.0047163754229687,0.0022726928033595
+Prevalence,Kingdom of Tonga,Female,15-49 years,Bipolar disorder,Percent,2021,0.0035175190620875,0.0047808793601409,0.0023933786953001
+Prevalence,Solomon Islands,Male,15-49 years,Bipolar disorder,Percent,2021,0.0033388337572822,0.0046002403631852,0.0022342121880689
+Prevalence,Solomon Islands,Female,15-49 years,Bipolar disorder,Percent,2021,0.0034395814417714,0.0045786964861956,0.0023263407534105
+Prevalence,Independent State of Samoa,Male,15-49 years,Bipolar disorder,Percent,2021,0.0034073595417744,0.0047167415543349,0.0022978898856564
+Prevalence,Independent State of Samoa,Female,15-49 years,Bipolar disorder,Percent,2021,0.0034532648504184,0.0046999593888496,0.0023071019650406
+Prevalence,Malaysia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0042470077788772,0.0059342295034284,0.0028858227172398
+Prevalence,Malaysia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0043384045468906,0.005870403542545,0.003010555581666
+Prevalence,Republic of the Marshall Islands,Male,15-49 years,Bipolar disorder,Percent,2021,0.0034168469615813,0.0046752773196666,0.0023456784248382
+Prevalence,Republic of the Marshall Islands,Female,15-49 years,Bipolar disorder,Percent,2021,0.0034827180751047,0.0047403876725838,0.0023729492714547
+Prevalence,Independent State of Papua New Guinea,Male,15-49 years,Bipolar disorder,Percent,2021,0.0034137875576613,0.0047524275365009,0.0023117518430561
+Prevalence,Independent State of Papua New Guinea,Female,15-49 years,Bipolar disorder,Percent,2021,0.0035023068396175,0.0048786936665226,0.0023611028467618
+Prevalence,Republic of Maldives,Male,15-49 years,Bipolar disorder,Percent,2021,0.0044180787601995,0.0062031392146218,0.0029750723214391
+Prevalence,Republic of Maldives,Female,15-49 years,Bipolar disorder,Percent,2021,0.0043737421539934,0.0059856476916804,0.0029737716747857
+Prevalence,Republic of Tajikistan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0062968578739532,0.0087449950512089,0.0043638650289815
+Prevalence,Republic of Tajikistan,Female,15-49 years,Bipolar disorder,Percent,2021,0.0066919440601572,0.0092449184805112,0.0045227092702662
+Prevalence,Republic of Indonesia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0042467294427354,0.0051718264871827,0.003387112101034
+Prevalence,Republic of Indonesia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0043571819010957,0.0052752563301654,0.0035078485407211
+Prevalence,Federated States of Micronesia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0033733081700369,0.0046040408106883,0.002290387305602
+Prevalence,Federated States of Micronesia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0034732274317711,0.0048577987088522,0.0023502555556285
+Prevalence,Taiwan (Province of China),Male,15-49 years,Bipolar disorder,Percent,2021,0.0025070991802054,0.0034128009994599,0.0016973753476071
+Prevalence,Taiwan (Province of China),Female,15-49 years,Bipolar disorder,Percent,2021,0.0026451070667966,0.0035737643301266,0.0017825605748649
+Prevalence,Republic of Kiribati,Male,15-49 years,Bipolar disorder,Percent,2021,0.0033816040017935,0.0046810172114272,0.00227420550737
+Prevalence,Republic of Kiribati,Female,15-49 years,Bipolar disorder,Percent,2021,0.0034797315868008,0.0046880462092329,0.0023841179284447
+Prevalence,Turkmenistan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0063391805343526,0.0086864461126146,0.0044740572563328
+Prevalence,Turkmenistan,Female,15-49 years,Bipolar disorder,Percent,2021,0.00666877238342,0.0090556283797491,0.0046309564167787
+Prevalence,Lao People's Democratic Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0042936342496518,0.0058554992943991,0.0029023566166216
+Prevalence,Lao People's Democratic Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0042987118714328,0.0058752870844021,0.0029637525032799
+Prevalence,Mongolia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0063320090734622,0.0085985853736195,0.0043681274066251
+Prevalence,Mongolia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0067390026759042,0.0090105210873876,0.0047398175298692
+Prevalence,Republic of Fiji,Male,15-49 years,Bipolar disorder,Percent,2021,0.0034862443111741,0.0048941439958151,0.0023918415938204
+Prevalence,Republic of Fiji,Female,15-49 years,Bipolar disorder,Percent,2021,0.003542953707554,0.0047892571737341,0.0024163016476142
+Prevalence,Kingdom of Cambodia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0041201116856953,0.0056777629648155,0.0027889707429721
+Prevalence,Kingdom of Cambodia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0042407699589577,0.00586587175262,0.0028777445345585
+Prevalence,Kyrgyz Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0063622364286372,0.0088987872570494,0.0043074997229075
+Prevalence,Kyrgyz Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0067481553984434,0.0092335564391484,0.0046870565395502
+Prevalence,Republic of Kazakhstan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0063823581197224,0.0087984615073508,0.0043720409894784
+Prevalence,Republic of Kazakhstan,Female,15-49 years,Bipolar disorder,Percent,2021,0.0067823564980852,0.0092181214155121,0.0047149157527854
+Prevalence,Socialist Republic of Viet Nam,Male,15-49 years,Bipolar disorder,Percent,2021,0.0042338622357374,0.0057839772420494,0.0028993841472858
+Prevalence,Socialist Republic of Viet Nam,Female,15-49 years,Bipolar disorder,Percent,2021,0.0044122459020495,0.0059333229055098,0.003045598602677
+Prevalence,Bosnia and Herzegovina,Male,15-49 years,Bipolar disorder,Percent,2021,0.0066646309558728,0.0090628402379908,0.0047005452073242
+Prevalence,Bosnia and Herzegovina,Female,15-49 years,Bipolar disorder,Percent,2021,0.0073287308195262,0.0098530137868381,0.0052235983296546
+Prevalence,Republic of Bulgaria,Male,15-49 years,Bipolar disorder,Percent,2021,0.0057290480610403,0.0077483690494831,0.0040551528660561
+Prevalence,Republic of Bulgaria,Female,15-49 years,Bipolar disorder,Percent,2021,0.0062447460240161,0.0082582509565378,0.0044514509572191
+Prevalence,Republic of Estonia,Male,15-49 years,Bipolar disorder,Percent,2021,0.006566440312207,0.0088728844401702,0.004591756560709
+Prevalence,Republic of Estonia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0070245239320661,0.0094059010569011,0.0049350889372081
+Prevalence,Republic of Albania,Male,15-49 years,Bipolar disorder,Percent,2021,0.0065548550392044,0.0088280860085586,0.0046043213923402
+Prevalence,Republic of Albania,Female,15-49 years,Bipolar disorder,Percent,2021,0.0071988973041697,0.0098502731661185,0.0050415982658551
+Prevalence,Republic of Belarus,Male,15-49 years,Bipolar disorder,Percent,2021,0.0065402516250617,0.0089644511606635,0.0045770526679679
+Prevalence,Republic of Belarus,Female,15-49 years,Bipolar disorder,Percent,2021,0.0069701935083512,0.0092852872636486,0.0048340493490379
+Prevalence,Georgia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0064334118076786,0.0088060996786325,0.0045322412174045
+Prevalence,Georgia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0069231715049289,0.0092893148553953,0.0049660152838536
+Prevalence,Australia,Male,15-49 years,Bipolar disorder,Percent,2021,0.01536955460412,0.0189475242133739,0.0121690365976114
+Prevalence,Australia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0161821946052972,0.0193884242735124,0.0135632292390867
+Prevalence,Republic of Azerbaijan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0064357277429098,0.0087744771515385,0.0043488254351873
+Prevalence,Republic of Azerbaijan,Female,15-49 years,Bipolar disorder,Percent,2021,0.006886164515431,0.0095028351121847,0.0047980626303465
+Prevalence,Republic of Slovenia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0067302898715305,0.0089680683946682,0.0047224006626483
+Prevalence,Republic of Slovenia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0074360740954329,0.0099557207171029,0.0052484671202055
+Prevalence,Republic of Armenia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0065276111708799,0.0088229615772405,0.0045783058647427
+Prevalence,Republic of Armenia,Female,15-49 years,Bipolar disorder,Percent,2021,0.007055272479152,0.0094365190466448,0.0049802255764119
+Prevalence,Republic of Uzbekistan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0063516865054827,0.0086138407260318,0.0043392927536213
+Prevalence,Republic of Uzbekistan,Female,15-49 years,Bipolar disorder,Percent,2021,0.0067024496687884,0.0091952434911363,0.0046547558032703
+Prevalence,Republic of Singapore,Male,15-49 years,Bipolar disorder,Percent,2021,0.0079766526060436,0.0105811886296515,0.0058725567948311
+Prevalence,Republic of Singapore,Female,15-49 years,Bipolar disorder,Percent,2021,0.009806117159336,0.0129270345287138,0.0070715604178479
+Prevalence,Slovak Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0067080726050667,0.0090439471492474,0.0047581195668066
+Prevalence,Slovak Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.007399131140455,0.0098826747678894,0.0053009624233978
+Prevalence,Romania,Male,15-49 years,Bipolar disorder,Percent,2021,0.0082685947517565,0.0103614618012396,0.006248690999137
+Prevalence,Romania,Female,15-49 years,Bipolar disorder,Percent,2021,0.0093370856891837,0.0118189906577152,0.0070684849747823
+Prevalence,Republic of Serbia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0066414451936144,0.0089982903802785,0.0046459146372286
+Prevalence,Republic of Serbia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0072845298884593,0.0098215164989332,0.0051861550128726
+Prevalence,Montenegro,Male,15-49 years,Bipolar disorder,Percent,2021,0.0066146629717534,0.0089786682795658,0.0046744989146093
+Prevalence,Montenegro,Female,15-49 years,Bipolar disorder,Percent,2021,0.0072505794020939,0.0097515144339254,0.0051157611497853
+Prevalence,Republic of Korea,Male,15-49 years,Bipolar disorder,Percent,2021,0.0058139106937716,0.0077647183583136,0.004256321101009
+Prevalence,Republic of Korea,Female,15-49 years,Bipolar disorder,Percent,2021,0.00661195304219,0.008834065069212,0.0047291443653688
+Prevalence,Japan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0066115427689631,0.0080525590080852,0.0054209097645751
+Prevalence,Japan,Female,15-49 years,Bipolar disorder,Percent,2021,0.0080376894234687,0.0097008763311479,0.0065211743411761
+Prevalence,Brunei Darussalam,Male,15-49 years,Bipolar disorder,Percent,2021,0.0067762996001109,0.0092752142160124,0.0047596900474286
+Prevalence,Brunei Darussalam,Female,15-49 years,Bipolar disorder,Percent,2021,0.0081707368716964,0.0110495872691511,0.0058060170846426
+Prevalence,Republic of Poland,Male,15-49 years,Bipolar disorder,Percent,2021,0.006755772788482,0.00817070624574,0.0055035730592221
+Prevalence,Republic of Poland,Female,15-49 years,Bipolar disorder,Percent,2021,0.0074809201326368,0.0090418414378494,0.0060557188247527
+Prevalence,Republic of Austria,Male,15-49 years,Bipolar disorder,Percent,2021,0.0100031854372111,0.0138904024848039,0.0070444594530788
+Prevalence,Republic of Austria,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131420863137877,0.0177507446386876,0.0095474539225351
+Prevalence,Ukraine,Male,15-49 years,Bipolar disorder,Percent,2021,0.0065792837553293,0.0080598639706171,0.0053029695767694
+Prevalence,Ukraine,Female,15-49 years,Bipolar disorder,Percent,2021,0.0070679806717533,0.0086395791833905,0.0056177802052435
+Prevalence,North Macedonia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0066755251916147,0.0089594350427207,0.0046142000743303
+Prevalence,North Macedonia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0073251376332728,0.0098473565393791,0.0052145838212471
+Prevalence,Hungary,Male,15-49 years,Bipolar disorder,Percent,2021,0.0066808342035845,0.0089349750385408,0.0047569353481953
+Prevalence,Hungary,Female,15-49 years,Bipolar disorder,Percent,2021,0.0073709638554656,0.0099139699429835,0.0051784588896601
+Prevalence,Republic of Cyprus,Male,15-49 years,Bipolar disorder,Percent,2021,0.009931570012557,0.0137889338897921,0.0069055220086692
+Prevalence,Republic of Cyprus,Female,15-49 years,Bipolar disorder,Percent,2021,0.0132004339006878,0.0182362477614233,0.0095051745290616
+Prevalence,Russian Federation,Male,15-49 years,Bipolar disorder,Percent,2021,0.0065284402005984,0.0078646044670629,0.0053110015891902
+Prevalence,Russian Federation,Female,15-49 years,Bipolar disorder,Percent,2021,0.0069193278244292,0.0083485147142324,0.0056161618992189
+Prevalence,Czech Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0067353105464119,0.0090667790398751,0.004719288086076
+Prevalence,Czech Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0074332301083278,0.0098270215023549,0.0052093306506676
+Prevalence,Republic of Finland,Male,15-49 years,Bipolar disorder,Percent,2021,0.0101230055285505,0.0140607839936813,0.0073243268153843
+Prevalence,Republic of Finland,Female,15-49 years,Bipolar disorder,Percent,2021,0.0130985557453477,0.0179597704981144,0.0093250898909409
+Prevalence,Republic of Croatia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0066921543973443,0.009134638027546,0.004687602625503
+Prevalence,Republic of Croatia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0073783027743354,0.0099288755596604,0.0052514590455273
+Prevalence,Kingdom of Belgium,Male,15-49 years,Bipolar disorder,Percent,2021,0.0100358024040658,0.0136848340246179,0.0071433101684961
+Prevalence,Kingdom of Belgium,Female,15-49 years,Bipolar disorder,Percent,2021,0.0130449241642879,0.0178513161109821,0.0093985212124771
+Prevalence,Kingdom of Denmark,Male,15-49 years,Bipolar disorder,Percent,2021,0.0099642430246565,0.0139671515196622,0.0071514354841228
+Prevalence,Kingdom of Denmark,Female,15-49 years,Bipolar disorder,Percent,2021,0.0132359193020657,0.0178469233514735,0.0092341169274877
+Prevalence,Principality of Andorra,Male,15-49 years,Bipolar disorder,Percent,2021,0.0099686829690108,0.0136200823153499,0.0069727922547419
+Prevalence,Principality of Andorra,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131779321251913,0.0176417801754658,0.0095421314977407
+Prevalence,Republic of Moldova,Male,15-49 years,Bipolar disorder,Percent,2021,0.0065563101673815,0.0090406241134653,0.0046092830955421
+Prevalence,Republic of Moldova,Female,15-49 years,Bipolar disorder,Percent,2021,0.0070033344687665,0.0094420177196613,0.0048659915827562
+Prevalence,Republic of Lithuania,Male,15-49 years,Bipolar disorder,Percent,2021,0.0064824029761513,0.0088450670366297,0.0045425745496206
+Prevalence,Republic of Lithuania,Female,15-49 years,Bipolar disorder,Percent,2021,0.0069747268766309,0.0094457624712637,0.0048383065734308
+Prevalence,French Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0099935355502109,0.0138645085329889,0.007138276838652
+Prevalence,French Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0130346742249026,0.0179604229616454,0.00946838531088
+Prevalence,Republic of Iceland,Male,15-49 years,Bipolar disorder,Percent,2021,0.0096986161603635,0.0133817526417228,0.0069659793498038
+Prevalence,Republic of Iceland,Female,15-49 years,Bipolar disorder,Percent,2021,0.0127402094053632,0.0177163244720455,0.0091285173277227
+Prevalence,Hellenic Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0098930547346615,0.013366693717144,0.0071389056854282
+Prevalence,Hellenic Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131931340706319,0.0176694530827507,0.0094685176925572
+Prevalence,Republic of Latvia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0064854901347857,0.0087022189371891,0.0045568803666115
+Prevalence,Republic of Latvia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0069440498867943,0.0093188767605235,0.0049215294207559
+Prevalence,New Zealand,Male,15-49 years,Bipolar disorder,Percent,2021,0.0193947666625339,0.0242008057661687,0.0156906945798597
+Prevalence,New Zealand,Female,15-49 years,Bipolar disorder,Percent,2021,0.0234930437417208,0.0290089665334179,0.0191464825937159
+Prevalence,Federal Republic of Germany,Male,15-49 years,Bipolar disorder,Percent,2021,0.007947820194299,0.0098951344384743,0.0063797804371339
+Prevalence,Federal Republic of Germany,Female,15-49 years,Bipolar disorder,Percent,2021,0.0130130820051041,0.0157911001122371,0.0103991196768471
+Prevalence,United Kingdom of Great Britain and Northern Ireland,Male,15-49 years,Bipolar disorder,Percent,2021,0.0113529208567468,0.0141690153696365,0.0093722120388167
+Prevalence,United Kingdom of Great Britain and Northern Ireland,Female,15-49 years,Bipolar disorder,Percent,2021,0.0152622579890615,0.018724237882231,0.0124590964134731
+Prevalence,Republic of Cuba,Male,15-49 years,Bipolar disorder,Percent,2021,0.0118276122386532,0.0162185401128477,0.0084948823672217
+Prevalence,Republic of Cuba,Female,15-49 years,Bipolar disorder,Percent,2021,0.0133811544760001,0.0183272781845802,0.0095972982495646
+Prevalence,Commonwealth of the Bahamas,Male,15-49 years,Bipolar disorder,Percent,2021,0.0114996374619557,0.0159543935337018,0.0082691561686424
+Prevalence,Commonwealth of the Bahamas,Female,15-49 years,Bipolar disorder,Percent,2021,0.0129739972442385,0.0177274047606278,0.0091405193269102
+Prevalence,Barbados,Male,15-49 years,Bipolar disorder,Percent,2021,0.0116172539352285,0.0157234390502171,0.0084591725834531
+Prevalence,Barbados,Female,15-49 years,Bipolar disorder,Percent,2021,0.0132367330909197,0.0180537055852618,0.0094082569188289
+Prevalence,Swiss Confederation,Male,15-49 years,Bipolar disorder,Percent,2021,0.0098750456036344,0.0137418359899995,0.006941385620945
+Prevalence,Swiss Confederation,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131671131726329,0.0178292873399158,0.0094160447675664
+Prevalence,Kingdom of Norway,Male,15-49 years,Bipolar disorder,Percent,2021,0.0094050369226907,0.0117442420441428,0.0076626746547575
+Prevalence,Kingdom of Norway,Female,15-49 years,Bipolar disorder,Percent,2021,0.0107639061883158,0.0131892022263912,0.0086671800153159
+Prevalence,Belize,Male,15-49 years,Bipolar disorder,Percent,2021,0.0115200388250765,0.0159650467379143,0.0081627447916067
+Prevalence,Belize,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131002309315323,0.0181499903797468,0.0091820403117172
+Prevalence,Kingdom of the Netherlands,Male,15-49 years,Bipolar disorder,Percent,2021,0.0104410993635431,0.0117776986408549,0.0091926015302716
+Prevalence,Kingdom of the Netherlands,Female,15-49 years,Bipolar disorder,Percent,2021,0.0117200308076434,0.0132072729281963,0.0104380562804693
+Prevalence,Kingdom of Spain,Male,15-49 years,Bipolar disorder,Percent,2021,0.0098234196829036,0.0133263262308224,0.0070108502795196
+Prevalence,Kingdom of Spain,Female,15-49 years,Bipolar disorder,Percent,2021,0.0130501408631196,0.0179937918604122,0.0093420179845692
+Prevalence,Antigua and Barbuda,Male,15-49 years,Bipolar disorder,Percent,2021,0.0117135567767454,0.0160555948015441,0.0082533424140321
+Prevalence,Antigua and Barbuda,Female,15-49 years,Bipolar disorder,Percent,2021,0.0133752876333537,0.0184703455682599,0.0095704136118267
+Prevalence,Republic of Malta,Male,15-49 years,Bipolar disorder,Percent,2021,0.01001409671075,0.0134614102468058,0.0070743474398953
+Prevalence,Republic of Malta,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131691238846661,0.0180080344198422,0.0094141297543558
+Prevalence,Kingdom of Sweden,Male,15-49 years,Bipolar disorder,Percent,2021,0.0099520043480969,0.0119806189117908,0.0081084159366245
+Prevalence,Kingdom of Sweden,Female,15-49 years,Bipolar disorder,Percent,2021,0.013415560153618,0.0162969591681621,0.0108696809563594
+Prevalence,Portuguese Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0106378191758276,0.013109568854634,0.0084600603288394
+Prevalence,Portuguese Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0128801927941702,0.0160449187887493,0.0103743164590364
+Prevalence,Grand Duchy of Luxembourg,Male,15-49 years,Bipolar disorder,Percent,2021,0.0099733495473477,0.0136833013113541,0.0070828563382834
+Prevalence,Grand Duchy of Luxembourg,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131016325857103,0.0175605016956143,0.0094115325259423
+Prevalence,Canada,Male,15-49 years,Bipolar disorder,Percent,2021,0.0115390770515724,0.0138133855917997,0.0087348675075662
+Prevalence,Canada,Female,15-49 years,Bipolar disorder,Percent,2021,0.011651358763137,0.014286822240202,0.009084481845031
+Prevalence,Ireland,Male,15-49 years,Bipolar disorder,Percent,2021,0.0082284194617562,0.0105149077252422,0.0064175898955689
+Prevalence,Ireland,Female,15-49 years,Bipolar disorder,Percent,2021,0.010242362824561,0.0129448710583654,0.0082281556086351
+Prevalence,United States of America,Male,15-49 years,Bipolar disorder,Percent,2021,0.0089280032829143,0.009526877764575,0.0083568784264386
+Prevalence,United States of America,Female,15-49 years,Bipolar disorder,Percent,2021,0.0090286156420056,0.0097017799340853,0.0084673531484003
+Prevalence,Republic of Italy,Male,15-49 years,Bipolar disorder,Percent,2021,0.0090532792233517,0.0111121051409449,0.0075063558461622
+Prevalence,Republic of Italy,Female,15-49 years,Bipolar disorder,Percent,2021,0.0136825445843257,0.0166814885266561,0.011220576449838
+Prevalence,State of Israel,Male,15-49 years,Bipolar disorder,Percent,2021,0.0118108138410757,0.0165099808479849,0.0083307544029692
+Prevalence,State of Israel,Female,15-49 years,Bipolar disorder,Percent,2021,0.0151508590960305,0.0209378746917031,0.0107291005778123
+Prevalence,Jamaica,Male,15-49 years,Bipolar disorder,Percent,2021,0.0118531536537093,0.0167133635732928,0.0083828434532433
+Prevalence,Jamaica,Female,15-49 years,Bipolar disorder,Percent,2021,0.0133002847872373,0.0182047153524587,0.0093844640002535
+Prevalence,Eastern Republic of Uruguay,Male,15-49 years,Bipolar disorder,Percent,2021,0.0087131392019746,0.0119802255448864,0.005984218782323
+Prevalence,Eastern Republic of Uruguay,Female,15-49 years,Bipolar disorder,Percent,2021,0.0109149895126974,0.0152413825768358,0.0079517277705301
+Prevalence,Republic of Guyana,Male,15-49 years,Bipolar disorder,Percent,2021,0.0114292224629767,0.0158324538193253,0.008076672455124
+Prevalence,Republic of Guyana,Female,15-49 years,Bipolar disorder,Percent,2021,0.0129584703785644,0.0179921421997562,0.0091016927278926
+Prevalence,Republic of Ecuador,Male,15-49 years,Bipolar disorder,Percent,2021,0.01160207758448,0.0159889822070654,0.0082219164668931
+Prevalence,Republic of Ecuador,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131381504786477,0.0183023022372879,0.0092517600299988
+Prevalence,Saint Vincent and the Grenadines,Male,15-49 years,Bipolar disorder,Percent,2021,0.0115251477613436,0.0158273583639378,0.0082271229284917
+Prevalence,Saint Vincent and the Grenadines,Female,15-49 years,Bipolar disorder,Percent,2021,0.0130230458558533,0.0179996154718814,0.0092552858219879
+Prevalence,Saint Lucia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0116552002680549,0.0158848431104477,0.0082857638426329
+Prevalence,Saint Lucia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0132436819958022,0.0183905777436216,0.0095413322978425
+Prevalence,Plurinational State of Bolivia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0116436592202977,0.0164347421778361,0.0082453509940822
+Prevalence,Plurinational State of Bolivia,Female,15-49 years,Bipolar disorder,Percent,2021,0.013059941839685,0.0177313516964225,0.0092105773114397
+Prevalence,Republic of Chile,Male,15-49 years,Bipolar disorder,Percent,2021,0.0086561159513013,0.0118177571848205,0.0059634002490466
+Prevalence,Republic of Chile,Female,15-49 years,Bipolar disorder,Percent,2021,0.0110779439850594,0.0149080193073393,0.0078860453530458
+Prevalence,Dominican Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0114821652864235,0.0157979240008716,0.0080278451094112
+Prevalence,Dominican Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0130467274687078,0.0176902451225992,0.0092396355676823
+Prevalence,Republic of Haiti,Male,15-49 years,Bipolar disorder,Percent,2021,0.0113689268517182,0.0158124157017051,0.0079960329695735
+Prevalence,Republic of Haiti,Female,15-49 years,Bipolar disorder,Percent,2021,0.0128299858226667,0.0179411889776443,0.0089200479641715
+Prevalence,Commonwealth of Dominica,Male,15-49 years,Bipolar disorder,Percent,2021,0.0115951820861507,0.015980128852234,0.0081663672504629
+Prevalence,Commonwealth of Dominica,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131189593169723,0.01860194043712,0.0092913857021303
+Prevalence,Republic of Trinidad and Tobago,Male,15-49 years,Bipolar disorder,Percent,2021,0.0115701389671943,0.0158681132551852,0.0083503696645779
+Prevalence,Republic of Trinidad and Tobago,Female,15-49 years,Bipolar disorder,Percent,2021,0.0130994524763984,0.0181897122355841,0.0093240754588476
+Prevalence,Federative Republic of Brazil,Male,15-49 years,Bipolar disorder,Percent,2021,0.0152154714111429,0.0183218902298486,0.012676009470646
+Prevalence,Federative Republic of Brazil,Female,15-49 years,Bipolar disorder,Percent,2021,0.0172543194121651,0.0207306004321212,0.0144104449580042
+Prevalence,Republic of Suriname,Male,15-49 years,Bipolar disorder,Percent,2021,0.0114971805441575,0.0159498599488443,0.0082312569471039
+Prevalence,Republic of Suriname,Female,15-49 years,Bipolar disorder,Percent,2021,0.0129663587710686,0.0176779711574668,0.0093018409742826
+Prevalence,Bolivarian Republic of Venezuela,Male,15-49 years,Bipolar disorder,Percent,2021,0.0109219287236547,0.0146877717213255,0.0078498630781455
+Prevalence,Bolivarian Republic of Venezuela,Female,15-49 years,Bipolar disorder,Percent,2021,0.0125589280291306,0.0169853211124348,0.0090254394115509
+Prevalence,Grenada,Male,15-49 years,Bipolar disorder,Percent,2021,0.0117344243403652,0.0164430378280463,0.0083791782514693
+Prevalence,Grenada,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131942768831854,0.0180756542357878,0.0094003673380339
+Prevalence,Republic of Panama,Male,15-49 years,Bipolar disorder,Percent,2021,0.0111290463200165,0.0151911743427438,0.0079831452886854
+Prevalence,Republic of Panama,Female,15-49 years,Bipolar disorder,Percent,2021,0.0127632611809368,0.0176037957577255,0.0091342838721764
+Prevalence,State of Libya,Male,15-49 years,Bipolar disorder,Percent,2021,0.0098575952865539,0.0134286850966787,0.0070274234951403
+Prevalence,State of Libya,Female,15-49 years,Bipolar disorder,Percent,2021,0.0112836215900995,0.0152520460340811,0.0079383412539914
+Prevalence,Republic of Nicaragua,Male,15-49 years,Bipolar disorder,Percent,2021,0.0110712398725983,0.0153675458062613,0.0078709058796167
+Prevalence,Republic of Nicaragua,Female,15-49 years,Bipolar disorder,Percent,2021,0.0127997954465189,0.0176899559799452,0.0091624517324325
+Prevalence,United Mexican States,Male,15-49 years,Bipolar disorder,Percent,2021,0.0123718764747048,0.0152149259640387,0.0101001046055702
+Prevalence,United Mexican States,Female,15-49 years,Bipolar disorder,Percent,2021,0.0141204610169821,0.0174190097611222,0.011639863717369
+Prevalence,Argentine Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0092421159939472,0.0128081769801264,0.0065676667736738
+Prevalence,Argentine Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0116347075873781,0.0161188739716836,0.0081581241152772
+Prevalence,Lebanese Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0129469055287736,0.016397819804036,0.0102393281228576
+Prevalence,Lebanese Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.014426302814864,0.0180813448356356,0.0113336489214193
+Prevalence,Islamic Republic of Iran,Male,15-49 years,Bipolar disorder,Percent,2021,0.0109178828179918,0.0133107341457478,0.0088641628602584
+Prevalence,Islamic Republic of Iran,Female,15-49 years,Bipolar disorder,Percent,2021,0.0121061288620395,0.0147308074824363,0.009885539348221
+Prevalence,State of Kuwait,Male,15-49 years,Bipolar disorder,Percent,2021,0.0102848727826938,0.0138224909317743,0.0072447271669655
+Prevalence,State of Kuwait,Female,15-49 years,Bipolar disorder,Percent,2021,0.0118655654875617,0.0163575554100927,0.0084402292929115
+Prevalence,Republic of Honduras,Male,15-49 years,Bipolar disorder,Percent,2021,0.0110075763994504,0.0152137878219591,0.0077409151587502
+Prevalence,Republic of Honduras,Female,15-49 years,Bipolar disorder,Percent,2021,0.0125364295634684,0.0178540617252366,0.0086275316718675
+Prevalence,Hashemite Kingdom of Jordan,Male,15-49 years,Bipolar disorder,Percent,2021,0.01017063567059,0.0140953125075032,0.0071381812421512
+Prevalence,Hashemite Kingdom of Jordan,Female,15-49 years,Bipolar disorder,Percent,2021,0.0115432416370087,0.0161993826730291,0.0080690375839001
+Prevalence,Republic of Iraq,Male,15-49 years,Bipolar disorder,Percent,2021,0.0089938865095233,0.0124131698931099,0.0062841754805786
+Prevalence,Republic of Iraq,Female,15-49 years,Bipolar disorder,Percent,2021,0.0104223637923449,0.0146473758430245,0.0074303812803857
+Prevalence,Republic of Guatemala,Male,15-49 years,Bipolar disorder,Percent,2021,0.0109086431844585,0.0151955720797721,0.0076411346492291
+Prevalence,Republic of Guatemala,Female,15-49 years,Bipolar disorder,Percent,2021,0.012470213146277,0.0175699281872409,0.0088212038500972
+Prevalence,Republic of El Salvador,Male,15-49 years,Bipolar disorder,Percent,2021,0.0110582761793587,0.0154101482892377,0.0078069735465665
+Prevalence,Republic of El Salvador,Female,15-49 years,Bipolar disorder,Percent,2021,0.0126551609585914,0.0176985098667523,0.0089962117468473
+Prevalence,Republic of Colombia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0100030863530113,0.012776986238618,0.00799189466777
+Prevalence,Republic of Colombia,Female,15-49 years,Bipolar disorder,Percent,2021,0.011680598363687,0.0142745547503579,0.009602762371071
+Prevalence,Kingdom of Bahrain,Male,15-49 years,Bipolar disorder,Percent,2021,0.0101187371092983,0.0135979472463393,0.007066658809662
+Prevalence,Kingdom of Bahrain,Female,15-49 years,Bipolar disorder,Percent,2021,0.0116224900522395,0.016138930137459,0.008070525009414
+Prevalence,Republic of Costa Rica,Male,15-49 years,Bipolar disorder,Percent,2021,0.0112726670978539,0.0152794183870795,0.0080723619399761
+Prevalence,Republic of Costa Rica,Female,15-49 years,Bipolar disorder,Percent,2021,0.0129563113287072,0.0178432324089239,0.00920595101783
+Prevalence,Arab Republic of Egypt,Male,15-49 years,Bipolar disorder,Percent,2021,0.0094229785975486,0.0129304363104278,0.0066208675460569
+Prevalence,Arab Republic of Egypt,Female,15-49 years,Bipolar disorder,Percent,2021,0.0107625482243064,0.0150788505690801,0.0075597713145096
+Prevalence,Republic of Turkey,Male,15-49 years,Bipolar disorder,Percent,2021,0.010122347326069,0.0136408785973923,0.0073462668705323
+Prevalence,Republic of Turkey,Female,15-49 years,Bipolar disorder,Percent,2021,0.0116724684836602,0.0158789857470975,0.0081635550296621
+Prevalence,People's Democratic Republic of Algeria,Male,15-49 years,Bipolar disorder,Percent,2021,0.0099891249045148,0.013750324874932,0.0071492260550433
+Prevalence,People's Democratic Republic of Algeria,Female,15-49 years,Bipolar disorder,Percent,2021,0.0112382368434718,0.0155148693589946,0.0078888675591944
+Prevalence,Republic of Peru,Male,15-49 years,Bipolar disorder,Percent,2021,0.0116022573995003,0.0162777041148368,0.0081739640353173
+Prevalence,Republic of Peru,Female,15-49 years,Bipolar disorder,Percent,2021,0.013107083537419,0.0180572542069126,0.009370803876201
+Prevalence,Kingdom of Saudi Arabia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0099492194517776,0.013303963367369,0.0069578848063423
+Prevalence,Kingdom of Saudi Arabia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0122622747322022,0.0170103941795715,0.0086540802157892
+Prevalence,Republic of Tunisia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0100126396905052,0.0136460803552548,0.0070809087458588
+Prevalence,Republic of Tunisia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0114287387477598,0.0155589018747815,0.0081933378505128
+Prevalence,Syrian Arab Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0095594184497417,0.0127710460758961,0.0068241795139199
+Prevalence,Syrian Arab Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0112321763565706,0.0157392172239318,0.0079829776936655
+Prevalence,Republic of Yemen,Male,15-49 years,Bipolar disorder,Percent,2021,0.0096537530741729,0.0132612619768681,0.006720086668443
+Prevalence,Republic of Yemen,Female,15-49 years,Bipolar disorder,Percent,2021,0.0111613684876134,0.0155260693689739,0.0079894816789185
+Prevalence,United Arab Emirates,Male,15-49 years,Bipolar disorder,Percent,2021,0.01003322298334,0.0135134410290203,0.0070628803670766
+Prevalence,United Arab Emirates,Female,15-49 years,Bipolar disorder,Percent,2021,0.0112686021819499,0.0153508007556271,0.0080509342599043
+Prevalence,Republic of Paraguay,Male,15-49 years,Bipolar disorder,Percent,2021,0.0143015249346293,0.0200896886386416,0.0100552541183446
+Prevalence,Republic of Paraguay,Female,15-49 years,Bipolar disorder,Percent,2021,0.0162882720806021,0.0226925255709972,0.0115483522797094
+Prevalence,Islamic Republic of Afghanistan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0095578268543125,0.0132589913973328,0.0065949484560845
+Prevalence,Islamic Republic of Afghanistan,Female,15-49 years,Bipolar disorder,Percent,2021,0.0111796658907244,0.0157419532157861,0.0078033743520109
+Prevalence,Gabonese Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0067722555424847,0.0093573368069305,0.0046785457384761
+Prevalence,Gabonese Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0069586655700477,0.0096089788046129,0.0047802704640992
+Prevalence,Democratic Republic of the Congo,Male,15-49 years,Bipolar disorder,Percent,2021,0.0065942939422341,0.0091579461164973,0.0045392591218767
+Prevalence,Democratic Republic of the Congo,Female,15-49 years,Bipolar disorder,Percent,2021,0.0068827791847377,0.0095070333925869,0.0046789240137831
+Prevalence,Kingdom of Morocco,Male,15-49 years,Bipolar disorder,Percent,2021,0.009981963978775,0.013854545982167,0.0069944328134618
+Prevalence,Kingdom of Morocco,Female,15-49 years,Bipolar disorder,Percent,2021,0.0112489439616453,0.0156000685491946,0.0079421660673762
+Prevalence,State of Qatar,Male,15-49 years,Bipolar disorder,Percent,2021,0.0102640319512696,0.0144170128083543,0.0072738200160358
+Prevalence,State of Qatar,Female,15-49 years,Bipolar disorder,Percent,2021,0.011530277960229,0.015805721655641,0.0082545034185952
+Prevalence,Republic of Equatorial Guinea,Male,15-49 years,Bipolar disorder,Percent,2021,0.0066718028612933,0.0094227696128665,0.0045400532012269
+Prevalence,Republic of Equatorial Guinea,Female,15-49 years,Bipolar disorder,Percent,2021,0.0069389784060371,0.0095838907910307,0.0047762241006155
+Prevalence,Sultanate of Oman,Male,15-49 years,Bipolar disorder,Percent,2021,0.0090742927909426,0.0118973093746803,0.0065450062835995
+Prevalence,Sultanate of Oman,Female,15-49 years,Bipolar disorder,Percent,2021,0.0100721882377902,0.0135872691470241,0.0072746636062692
+Prevalence,Republic of the Congo,Male,15-49 years,Bipolar disorder,Percent,2021,0.0067528954469319,0.0094610863358635,0.0046341190492375
+Prevalence,Republic of the Congo,Female,15-49 years,Bipolar disorder,Percent,2021,0.0069289203321607,0.00962604114284,0.0048519393496588
+Prevalence,Palestine,Male,15-49 years,Bipolar disorder,Percent,2021,0.0099881283647529,0.0138688450823518,0.0069384139172918
+Prevalence,Palestine,Female,15-49 years,Bipolar disorder,Percent,2021,0.0116762904304572,0.0163124034739902,0.0080544038229841
+Prevalence,Republic of Seychelles,Male,15-49 years,Bipolar disorder,Percent,2021,0.0042670963503108,0.0058308310332207,0.0029192121819092
+Prevalence,Republic of Seychelles,Female,15-49 years,Bipolar disorder,Percent,2021,0.0043717045903938,0.0059045821626253,0.0030047109131058
+Prevalence,Central African Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0065886196403283,0.0091249128791042,0.0046273375181437
+Prevalence,Central African Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0068344001239805,0.0095691704529075,0.0048443678218093
+Prevalence,Republic of Angola,Male,15-49 years,Bipolar disorder,Percent,2021,0.0066397781986698,0.0092041866580829,0.0045942810835111
+Prevalence,Republic of Angola,Female,15-49 years,Bipolar disorder,Percent,2021,0.0068651197761481,0.00944431791278,0.0047549097242676
+Prevalence,Republic of Rwanda,Male,15-49 years,Bipolar disorder,Percent,2021,0.0074718207038058,0.0104686683734937,0.0051891742829527
+Prevalence,Republic of Rwanda,Female,15-49 years,Bipolar disorder,Percent,2021,0.0077347825411076,0.0107491036452447,0.0053883692163847
+Prevalence,Republic of Mozambique,Male,15-49 years,Bipolar disorder,Percent,2021,0.0072802871042527,0.0102004353230802,0.0050148023103931
+Prevalence,Republic of Mozambique,Female,15-49 years,Bipolar disorder,Percent,2021,0.0076234903514158,0.0105811824096454,0.0053585827328535
+Prevalence,Republic of Mauritius,Male,15-49 years,Bipolar disorder,Percent,2021,0.0042178874835898,0.0057250907625645,0.0028786761140688
+Prevalence,Republic of Mauritius,Female,15-49 years,Bipolar disorder,Percent,2021,0.0043734565682973,0.0058083255821803,0.0030688568604683
+Prevalence,Islamic Republic of Pakistan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0050893144455255,0.0063002006479628,0.0040699321965101
+Prevalence,Islamic Republic of Pakistan,Female,15-49 years,Bipolar disorder,Percent,2021,0.0044472297625018,0.0054991180045265,0.0035325420278209
+Prevalence,State of Eritrea,Male,15-49 years,Bipolar disorder,Percent,2021,0.0074299245690666,0.0101677483367323,0.0052100979151371
+Prevalence,State of Eritrea,Female,15-49 years,Bipolar disorder,Percent,2021,0.0077666232409296,0.0106713761226324,0.0054305679075755
+Prevalence,Federal Democratic Republic of Nepal,Male,15-49 years,Bipolar disorder,Percent,2021,0.0050287000691851,0.007006728510981,0.0033946996225111
+Prevalence,Federal Democratic Republic of Nepal,Female,15-49 years,Bipolar disorder,Percent,2021,0.0044021629994415,0.0062223248337764,0.0029705859428503
+Prevalence,Republic of India,Male,15-49 years,Bipolar disorder,Percent,2021,0.0047223909580328,0.0057536336425735,0.0038131680357509
+Prevalence,Republic of India,Female,15-49 years,Bipolar disorder,Percent,2021,0.0038949152530181,0.0047594053154954,0.0031115339966531
+Prevalence,Republic of Madagascar,Male,15-49 years,Bipolar disorder,Percent,2021,0.0074079010931213,0.0102863964475553,0.0052090205107429
+Prevalence,Republic of Madagascar,Female,15-49 years,Bipolar disorder,Percent,2021,0.0077002066031282,0.0105881643381902,0.0053763127057906
+Prevalence,Republic of Kenya,Male,15-49 years,Bipolar disorder,Percent,2021,0.0074093369257561,0.0090103257178489,0.0059972783668765
+Prevalence,Republic of Kenya,Female,15-49 years,Bipolar disorder,Percent,2021,0.0076874420652289,0.0094234719927659,0.0062036996515992
+Prevalence,Republic of Malawi,Male,15-49 years,Bipolar disorder,Percent,2021,0.0073320008277327,0.0099779146415346,0.0051433887404174
+Prevalence,Republic of Malawi,Female,15-49 years,Bipolar disorder,Percent,2021,0.0076125462619528,0.0105965897409811,0.0053864623484131
+Prevalence,People's Republic of Bangladesh,Male,15-49 years,Bipolar disorder,Percent,2021,0.0050792357234903,0.0071183451193612,0.0034689408154935
+Prevalence,People's Republic of Bangladesh,Female,15-49 years,Bipolar disorder,Percent,2021,0.0044344243554294,0.0061241087800924,0.0030397907325511
+Prevalence,Kingdom of Bhutan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0051937991172164,0.0071622942482685,0.0035213171429676
+Prevalence,Kingdom of Bhutan,Female,15-49 years,Bipolar disorder,Percent,2021,0.0044589530109568,0.0060449903085733,0.0030527433242916
+Prevalence,Federal Democratic Republic of Ethiopia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0077010804575441,0.0094637378064199,0.0061848510869717
+Prevalence,Federal Democratic Republic of Ethiopia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0081183784377973,0.0099740612351297,0.006554483053817
+Prevalence,Union of the Comoros,Male,15-49 years,Bipolar disorder,Percent,2021,0.0076000098418507,0.0105014109478455,0.0053706985777376
+Prevalence,Union of the Comoros,Female,15-49 years,Bipolar disorder,Percent,2021,0.0079129299995296,0.0109162276430954,0.0055289065286455
+Prevalence,Republic of Benin,Male,15-49 years,Bipolar disorder,Percent,2021,0.0062185095402374,0.0085849907518276,0.0041875151512449
+Prevalence,Republic of Benin,Female,15-49 years,Bipolar disorder,Percent,2021,0.0063819380645266,0.0088208194850542,0.0043408798585832
+Prevalence,Kingdom of Lesotho,Male,15-49 years,Bipolar disorder,Percent,2021,0.0067876330733875,0.009369745694153,0.0046775149022643
+Prevalence,Kingdom of Lesotho,Female,15-49 years,Bipolar disorder,Percent,2021,0.0068754679177451,0.0095041787710537,0.0047508149645017
+Prevalence,Republic of Djibouti,Male,15-49 years,Bipolar disorder,Percent,2021,0.0076364911876525,0.0106237093723061,0.005267727174718
+Prevalence,Republic of Djibouti,Female,15-49 years,Bipolar disorder,Percent,2021,0.0079195008083992,0.010806224537906,0.0055450071403543
+Prevalence,Republic of Burundi,Male,15-49 years,Bipolar disorder,Percent,2021,0.0074006468364857,0.0101914311334587,0.0051855303174906
+Prevalence,Republic of Burundi,Female,15-49 years,Bipolar disorder,Percent,2021,0.0076537072989999,0.0104487482358192,0.0053858768421412
+Prevalence,Republic of Botswana,Male,15-49 years,Bipolar disorder,Percent,2021,0.0069159224707703,0.0094616350746777,0.0047547899337864
+Prevalence,Republic of Botswana,Female,15-49 years,Bipolar disorder,Percent,2021,0.007011635045831,0.0096236713911689,0.0048906541010394
+Prevalence,Republic of Zimbabwe,Male,15-49 years,Bipolar disorder,Percent,2021,0.0067724577665739,0.0092286659376591,0.0047529053041041
+Prevalence,Republic of Zimbabwe,Female,15-49 years,Bipolar disorder,Percent,2021,0.0068643968741211,0.0094308771578526,0.004833982711844
+Prevalence,Republic of Uganda,Male,15-49 years,Bipolar disorder,Percent,2021,0.0072721111122799,0.0101104413793605,0.0049644752575086
+Prevalence,Republic of Uganda,Female,15-49 years,Bipolar disorder,Percent,2021,0.0076346655857243,0.0107992693358529,0.0052411357397787
+Prevalence,Republic of South Africa,Male,15-49 years,Bipolar disorder,Percent,2021,0.007012280688358,0.0084879150026154,0.0056922080486045
+Prevalence,Republic of South Africa,Female,15-49 years,Bipolar disorder,Percent,2021,0.0070853291640843,0.0086293641836151,0.0057100579123518
+Prevalence,Republic of Zambia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0073495503574371,0.0102991534949231,0.0050383190130656
+Prevalence,Republic of Zambia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0076448000025621,0.0106266153484151,0.0052712823305589
+Prevalence,Islamic Republic of Mauritania,Male,15-49 years,Bipolar disorder,Percent,2021,0.0062944414576865,0.0087260776648312,0.00438582786174
+Prevalence,Islamic Republic of Mauritania,Female,15-49 years,Bipolar disorder,Percent,2021,0.0064158060782583,0.0090178786427933,0.004438061994574
+Prevalence,Republic of Mali,Male,15-49 years,Bipolar disorder,Percent,2021,0.0061337912687277,0.0085754312438424,0.0041852195511865
+Prevalence,Republic of Mali,Female,15-49 years,Bipolar disorder,Percent,2021,0.0063429292904948,0.0088189971520978,0.0043368676468985
+Prevalence,Republic of Namibia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0068456091365473,0.0095715628912238,0.0047243243228208
+Prevalence,Republic of Namibia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0069794332163673,0.0096320986573854,0.0048063507479777
+Prevalence,Kingdom of Eswatini,Male,15-49 years,Bipolar disorder,Percent,2021,0.0068363632345979,0.0094259227607642,0.004755228318545
+Prevalence,Kingdom of Eswatini,Female,15-49 years,Bipolar disorder,Percent,2021,0.0069084362821294,0.0095862350738138,0.0048291852365499
+Prevalence,United Republic of Tanzania,Male,15-49 years,Bipolar disorder,Percent,2021,0.0073944599607762,0.010269215840023,0.0052232467389966
+Prevalence,United Republic of Tanzania,Female,15-49 years,Bipolar disorder,Percent,2021,0.0077116888919965,0.010629851352177,0.0054359353384937
+Prevalence,Republic of Guinea-Bissau,Male,15-49 years,Bipolar disorder,Percent,2021,0.0062237933550795,0.0087408490352072,0.0042888110547352
+Prevalence,Republic of Guinea-Bissau,Female,15-49 years,Bipolar disorder,Percent,2021,0.0063796875802424,0.0088756310219512,0.0044009654260729
+Prevalence,Republic of Guinea,Male,15-49 years,Bipolar disorder,Percent,2021,0.006163915015076,0.0086369679586997,0.0041549638842424
+Prevalence,Republic of Guinea,Female,15-49 years,Bipolar disorder,Percent,2021,0.0063804754980726,0.0088876551724467,0.0043571653524504
+Prevalence,Federal Republic of Somalia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0072331505709807,0.0102483533393573,0.0049339630150818
+Prevalence,Federal Republic of Somalia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0076367837120032,0.0106664229807338,0.0053923658072976
+Prevalence,Republic of Liberia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0062386391176306,0.0085615475882899,0.0044294108172946
+Prevalence,Republic of Liberia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0064158239594083,0.0089336464907911,0.004425795984278
+Prevalence,Republic of Ghana,Male,15-49 years,Bipolar disorder,Percent,2021,0.0063083497032655,0.0088193703086741,0.0042940951998388
+Prevalence,Republic of Ghana,Female,15-49 years,Bipolar disorder,Percent,2021,0.0064709824811875,0.0087928130317854,0.0044411003762494
+Prevalence,Republic of the Gambia,Male,15-49 years,Bipolar disorder,Percent,2021,0.0062496456095962,0.0088057304328823,0.0043194654708263
+Prevalence,Republic of the Gambia,Female,15-49 years,Bipolar disorder,Percent,2021,0.0064102257292315,0.0089811839723554,0.0043844952240288
+Prevalence,Principality of Monaco,Male,15-49 years,Bipolar disorder,Percent,2021,0.0100269364850684,0.0135163141208559,0.0071631743229594
+Prevalence,Principality of Monaco,Female,15-49 years,Bipolar disorder,Percent,2021,0.0130774201126823,0.0171564498883772,0.0094482214921905
+Prevalence,Republic of Côte d'Ivoire,Male,15-49 years,Bipolar disorder,Percent,2021,0.0063073165773,0.0087732465692946,0.0043333287960414
+Prevalence,Republic of Côte d'Ivoire,Female,15-49 years,Bipolar disorder,Percent,2021,0.0064318945770193,0.0087910001771893,0.0044956356034127
+Prevalence,Republic of Niue,Male,15-49 years,Bipolar disorder,Percent,2021,0.0034662193441232,0.0047398592030397,0.002399757423115
+Prevalence,Republic of Niue,Female,15-49 years,Bipolar disorder,Percent,2021,0.0035918656047415,0.0049236637004573,0.0024714606117097
+Prevalence,Republic of Nauru,Male,15-49 years,Bipolar disorder,Percent,2021,0.0033945954748308,0.0046501924346253,0.0022776157576103
+Prevalence,Republic of Nauru,Female,15-49 years,Bipolar disorder,Percent,2021,0.0034593596440471,0.0047766987584331,0.0023491991341039
+Prevalence,Republic of Chad,Male,15-49 years,Bipolar disorder,Percent,2021,0.0061089952392041,0.0085857845947732,0.0041705755594956
+Prevalence,Republic of Chad,Female,15-49 years,Bipolar disorder,Percent,2021,0.0062603468110174,0.0087152697958965,0.0043040453316185
+Prevalence,Togolese Republic,Male,15-49 years,Bipolar disorder,Percent,2021,0.0062630356705491,0.0087436319851404,0.0043288278323821
+Prevalence,Togolese Republic,Female,15-49 years,Bipolar disorder,Percent,2021,0.0064682520669368,0.0090487653318038,0.0044160839839389
+Prevalence,Republic of Cabo Verde,Male,15-49 years,Bipolar disorder,Percent,2021,0.0065450641725313,0.009115891424062,0.0045364478428505
+Prevalence,Republic of Cabo Verde,Female,15-49 years,Bipolar disorder,Percent,2021,0.0066576164332062,0.0091664399933663,0.0046033039009602
+Prevalence,Republic of Senegal,Male,15-49 years,Bipolar disorder,Percent,2021,0.006214285274756,0.0086277491767653,0.0041955467622768
+Prevalence,Republic of Senegal,Female,15-49 years,Bipolar disorder,Percent,2021,0.0064505440689411,0.0089653858586632,0.0044502205204123
+Prevalence,Republic of Cameroon,Male,15-49 years,Bipolar disorder,Percent,2021,0.0062257708509322,0.0086735021574854,0.0042622361500433
+Prevalence,Republic of Cameroon,Female,15-49 years,Bipolar disorder,Percent,2021,0.0063734535636202,0.0088555820435854,0.0043922976038451
+Prevalence,Republic of Sierra Leone,Male,15-49 years,Bipolar disorder,Percent,2021,0.0062274385092715,0.0085755868514579,0.0042802732704019
+Prevalence,Republic of Sierra Leone,Female,15-49 years,Bipolar disorder,Percent,2021,0.0063884771964659,0.0089435601964443,0.0043794871252731
+Prevalence,Guam,Male,15-49 years,Bipolar disorder,Percent,2021,0.0035349803941494,0.0048556601079003,0.0024110044427812
+Prevalence,Guam,Female,15-49 years,Bipolar disorder,Percent,2021,0.0036119810471236,0.004959315165908,0.0024929037282411
+Prevalence,Burkina Faso,Male,15-49 years,Bipolar disorder,Percent,2021,0.0062030315314133,0.0085277038768762,0.0042615330679209
+Prevalence,Burkina Faso,Female,15-49 years,Bipolar disorder,Percent,2021,0.0063779670097202,0.0088660474514624,0.0043569041651064
+Prevalence,Democratic Republic of Sao Tome and Principe,Male,15-49 years,Bipolar disorder,Percent,2021,0.0064016547524844,0.0088501614865227,0.0044176289834901
+Prevalence,Democratic Republic of Sao Tome and Principe,Female,15-49 years,Bipolar disorder,Percent,2021,0.0065181220874648,0.0089946670523299,0.0044540235651386
+Prevalence,Greenland,Male,15-49 years,Bipolar disorder,Percent,2021,0.0087463090087136,0.0122708101520069,0.0062305206956503
+Prevalence,Greenland,Female,15-49 years,Bipolar disorder,Percent,2021,0.0098936910561101,0.0133991916182805,0.0070177796285923
+Prevalence,Federal Republic of Nigeria,Male,15-49 years,Bipolar disorder,Percent,2021,0.0061647436268975,0.0075117574092317,0.0049698483524101
+Prevalence,Federal Republic of Nigeria,Female,15-49 years,Bipolar disorder,Percent,2021,0.0063299127968073,0.0077775482456183,0.0051163547372713
+Prevalence,American Samoa,Male,15-49 years,Bipolar disorder,Percent,2021,0.0034484884459473,0.0046776716922219,0.0023648835362604
+Prevalence,American Samoa,Female,15-49 years,Bipolar disorder,Percent,2021,0.003531852660386,0.0047535895052668,0.0024164026969176
+Prevalence,Cook Islands,Male,15-49 years,Bipolar disorder,Percent,2021,0.0035303417419384,0.0048836884904796,0.0023868890118005
+Prevalence,Cook Islands,Female,15-49 years,Bipolar disorder,Percent,2021,0.0036158361271637,0.0049621446060914,0.0024632729536017
+Prevalence,Bermuda,Male,15-49 years,Bipolar disorder,Percent,2021,0.0118958063438468,0.0162699577150871,0.0085865007427375
+Prevalence,Bermuda,Female,15-49 years,Bipolar disorder,Percent,2021,0.0136420943720983,0.0184181239490827,0.0097463461650873
+Prevalence,Republic of South Sudan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0072282939593619,0.0099604899544072,0.0050888550931028
+Prevalence,Republic of South Sudan,Female,15-49 years,Bipolar disorder,Percent,2021,0.0076386297351734,0.0106430451881057,0.0052703774508019
+Prevalence,Republic of the Niger,Male,15-49 years,Bipolar disorder,Percent,2021,0.0060997620899223,0.0084866314427273,0.004173931785846
+Prevalence,Republic of the Niger,Female,15-49 years,Bipolar disorder,Percent,2021,0.0062605648207126,0.0086180968843233,0.00429544347854
+Prevalence,Tokelau,Male,15-49 years,Bipolar disorder,Percent,2021,0.0034687782810592,0.0047877343932398,0.0023742393577424
+Prevalence,Tokelau,Female,15-49 years,Bipolar disorder,Percent,2021,0.0035457759329325,0.0048726728386612,0.0024275273634209
+Prevalence,Republic of San Marino,Male,15-49 years,Bipolar disorder,Percent,2021,0.0100989813395324,0.0139397043128598,0.0071038700112776
+Prevalence,Republic of San Marino,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131925219789018,0.0178920834499942,0.0095268265425483
+Prevalence,Saint Kitts and Nevis,Male,15-49 years,Bipolar disorder,Percent,2021,0.0115967684668049,0.0157071049076698,0.0083267200721257
+Prevalence,Saint Kitts and Nevis,Female,15-49 years,Bipolar disorder,Percent,2021,0.0131247782468434,0.0179992150070128,0.0093241825656486
+Prevalence,Puerto Rico,Male,15-49 years,Bipolar disorder,Percent,2021,0.0116179126067049,0.0158595530648876,0.0081812738476968
+Prevalence,Puerto Rico,Female,15-49 years,Bipolar disorder,Percent,2021,0.0134096986951935,0.0182152754768919,0.0096118519440262
+Prevalence,Tuvalu,Male,15-49 years,Bipolar disorder,Percent,2021,0.0034388967801663,0.0048264976706458,0.0022915135771323
+Prevalence,Tuvalu,Female,15-49 years,Bipolar disorder,Percent,2021,0.0034842689842055,0.0047856207948366,0.002344411313859
+Prevalence,United States Virgin Islands,Male,15-49 years,Bipolar disorder,Percent,2021,0.0115248289422008,0.0157137865340285,0.0084018885019065
+Prevalence,United States Virgin Islands,Female,15-49 years,Bipolar disorder,Percent,2021,0.0133665564992652,0.0181591689224886,0.0096482232282985
+Prevalence,Northern Mariana Islands,Male,15-49 years,Bipolar disorder,Percent,2021,0.0035436654687726,0.0048847469460132,0.0024430334592062
+Prevalence,Northern Mariana Islands,Female,15-49 years,Bipolar disorder,Percent,2021,0.0036317564877131,0.0048640749183248,0.0025401387361528
+Prevalence,Republic of Palau,Male,15-49 years,Bipolar disorder,Percent,2021,0.0035749633289096,0.004886927913909,0.0024492727719859
+Prevalence,Republic of Palau,Female,15-49 years,Bipolar disorder,Percent,2021,0.00364318817063,0.0049545146326144,0.0025222754123311
+Prevalence,Republic of Sudan,Male,15-49 years,Bipolar disorder,Percent,2021,0.0097443416142665,0.0137985706083336,0.0068346100642558
+Prevalence,Republic of Sudan,Female,15-49 years,Bipolar disorder,Percent,2021,0.0112401278714824,0.0156023044931853,0.0078140713948158
