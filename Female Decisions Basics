@@ -1,0 +1,55 @@
+#FEMALE
+
+# Linear Regression
+linreg_fem = LinearRegression()
+linreg_fem.fit(X_train_female_scaled, Y_train_female)
+ypred_linreg_fem = linreg_fem.predict(X_test_female_scaled)
+r2_linreg_fem = r2_score(Y_test_female, ypred_linreg_fem)
+rmse_linreg_fem = mean_squared_error(Y_test_female, ypred_linreg_fem, squared=False)
+mae_linreg_fem = mean_absolute_error(Y_test_female, ypred_linreg_fem)
+
+# Decision Tree : No need of Scaled Values
+basetree_fem = DecisionTreeRegressor(max_depth=3, random_state=42)
+basetree_fem.fit(X_train_female, Y_train_female)  
+ypred_basetree_fem = basetree_fem.predict(X_test_female)
+r2_basetree_fem = r2_score(Y_test_female, ypred_basetree_fem)
+rmse_basetree_fem = mean_squared_error(Y_test_female, ypred_basetree_fem, squared=False)
+mae_basetree_fem = mean_absolute_error(Y_test_female, ypred_basetree_fem)
+
+# Bagging with Decision Trees 
+bagtree_fem = BaggingRegressor(
+    estimator=DecisionTreeRegressor(random_state=42),
+    n_estimators=100,
+    random_state=42
+)
+bagtree_fem.fit(X_train_female, Y_train_female)
+ypred_bagtree_fem = bagtree_fem.predict(X_test_female)
+r2_bagtree_fem = r2_score(Y_test_female, ypred_bagtree_fem)
+rmse_bagtree_fem = mean_squared_error(Y_test_female, ypred_bagtree_fem, squared=False)
+mae_bagtree_fem = mean_absolute_error(Y_test_female, ypred_bagtree_fem)
+
+#  Random Forest 
+rftree_fem = RandomForestRegressor(n_estimators=100, max_depth=None, random_state=42)
+rftree_fem.fit(X_train_female, Y_train_female)
+ypred_rftree_fem = rftree_fem.predict(X_test_female)
+r2_rftree_fem = r2_score(Y_test_female, ypred_rftree_fem)
+rmse_rftree_fem = mean_squared_error(Y_test_female, ypred_rftree_fem, squared=False)
+mae_rftree_fem = mean_absolute_error(Y_test_female, ypred_rftree_fem)
+
+# Results : 
+print("Female Suicide Rate Prediction :")
+print(f"Linear Regression R2: {r2_linreg_fem:.4f}")
+print(f"Linear Regression RMSE: {rmse_rftree_fem:.4f}")
+print(f"Linear Regression MAE: {mae_rftree_fem:.4f}")
+
+print(f"Decision Tree R2: {r2_basetree_fem:.4f}")
+print(f"Decision Tree RMSE: {rmse_basetree_fem:.4f}")
+print(f"Decision Tree MAE: {mae_bagtree_fem:.4f}")
+
+print(f"Bagging R2: {r2_bagtree_fem:.4f}")
+print(f"Bagging RMSE: {rmse_bagtree_fem:.4f}")
+print(f"Bagging MAE: {mae_bagtree_fem:.4f}")
+
+print(f"Random Forest R2: {r2_rftree_fem:.4f}")
+print(f"Random Forest RMSE: {rmse_rftree_fem:.4f}")
+print(f"Random Forest MAE: {mae_rftree_fem:.4f}")
